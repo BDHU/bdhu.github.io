@@ -1,2 +1,2 @@
-# edwardhu.github.io
-My personal Website
+# Edward Hu
+This is my personal Website
