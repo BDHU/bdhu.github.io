@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://bodunhu.com/sitemap.xml
+Sitemap: https://www.bodunhu.com/sitemap.xml
