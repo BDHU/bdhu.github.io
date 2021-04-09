@@ -1,7 +1,7 @@
-- title: "Altis: Modernizing GPGPU Benchmarks"
+- title: "Altis: Modernizing GPGPU Benchmarks <a href='https://arxiv.org/pdf/1906.10347.pdf'>[pdf]</a>" 
   image:
   description: A benchmarking suite for heterogeneous systems. The primary goal of this project is to improve and update aspects of existing benchmarking suites which are either insufficient or outdated. 
-  authors: Bodun Hu, Chritopher J. Rossbach
+  authors: <b>Bodun Hu</b>, Chritopher J. Rossbach
   link:
     url: https://ieeexplore.ieee.org/document/9238617
     display:  ISPASS 2020
