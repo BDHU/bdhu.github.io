@@ -23,7 +23,7 @@ Austin, TX 78712-1757
 
 Interests: Operating systems, architecture, heterogeneity, virtualization, accelerators, networks, machine learning systems, and distributed systems
 
---- 
+---
 
 My name is Edward and I am a Computer Science student in the [SCEA](https://github.com/utcs-scea) group at [University of Texas at Austin](https://www.utexas.edu/). I will be joining [WISR](https://wisr.cs.wisc.edu/) lab under the supervision of professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) for my PhD this following Fall.
 I'm fortunate to work with professor [Chris Rossbach](http://www.cs.utexas.edu/~rossbach/) on modern GPU benchmarking and virtualization for OS kernels.
