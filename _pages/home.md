@@ -19,7 +19,7 @@ Austin, TX 78712-1757
 **Twitter**: [@BodunHu](https://twitter.com/BodunHu)  
 **Github**: [BDHU](https://github.com/BDHU)  
 **Phone**: (512) 517-0598  
-**CV**: [[pdf]]({{ site.url }}/cv.pdf)
+**CV**: [[pdf]](https://drive.google.com/file/d/1YyNxvBKm0eqRKShlWvDgMSvzPitnZ8f6/view?usp=sharing)
 
 Interests: Operating systems, architecture, heterogeneity, virtualization, accelerators, networks, machine learning systems, and distributed systems
 
