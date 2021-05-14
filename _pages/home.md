@@ -25,10 +25,10 @@ Interests: Operating systems, architecture, heterogeneity, virtualization, accel
 
 ---
 
-My name is Edward and I am a Computer Science student in the [SCEA](https://github.com/utcs-scea) group at [University of Texas at Austin](https://www.utexas.edu/). I will be joining [WISR](https://wisr.cs.wisc.edu/) lab under the supervision of professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) for my PhD this following Fall.
-I'm fortunate to work with professor [Chris Rossbach](http://www.cs.utexas.edu/~rossbach/) on modern GPU benchmarking and virtualization for OS kernels.
+My name is Bodun (though I usually go by Edward) and I am currently a Computer Science student in the [SCEA](https://github.com/utcs-scea) group at [University of Texas at Austin](https://www.utexas.edu/). I will be joining [WISR](https://wisr.cs.wisc.edu/) lab under the supervision of professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) for my Ph.D. this following Fall.
+I'm extremely fortunate to work closely with professor [Chris Rossbach](http://www.cs.utexas.edu/~rossbach/) on modern GPU benchmarking and virtualization for OS kernels.
 I also worked with professor [Simon Peter](https://www.cs.utexas.edu/~simon/) on programmable switches.
-Occasionally I would write [blogs](https://bdhu.github.io/blog/) to share topics I find interesting.
+Occasionally I write [blogs](https://bdhu.github.io/blog/) to share topics I find interesting.
 Recently, I'm trying to pick up my workout routine. If you want to hit the gym or need a spotter, hit me up:)
 
 ---
