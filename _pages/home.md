@@ -10,7 +10,7 @@ permalink: /
 
 <!-- <img src="images/me.jpg" style="margin-left:25px;max-width:210px;min-width:20%;float:right;" alt="Github repo" /> -->
 
-<img src="images/me.jpg" style="margin-left:25px;max-width:185px;min-width:20%;float:right;" alt="Github repo" />
+<img src="images/me.jpg" style="margin-left:20px;max-width:184px;min-width:20%;float:right;" alt="Github repo" />
 
 
 Department of Computer Science  
