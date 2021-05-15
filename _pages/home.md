@@ -8,7 +8,10 @@ permalink: /
 
 <!-- [<img src="images/bsd.PNG" class="headerimagebox" alt="Github repo">](https://github.com/yihui/hugo-xmin) -->
 
-<img src="images/me.jpg" style="margin-left:25px;max-width:210px;min-width:20%;float:right;" alt="Github repo" />
+<!-- <img src="images/me.jpg" style="margin-left:25px;max-width:210px;min-width:20%;float:right;" alt="Github repo" /> -->
+
+<img src="images/me.jpg" style="margin-left:25px;max-width:185px;min-width:20%;float:right;" alt="Github repo" />
+
 
 Department of Computer Science  
 University of Texas at Austin  
