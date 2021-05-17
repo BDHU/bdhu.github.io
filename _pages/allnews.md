@@ -1,12 +1,13 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Edward Hu at UT"
-sitemap: false
+excerpt: "Recent news for Bodun Hu at UT"
+sitemap: true
+last_modified_at: 17 May, 2021
 permalink: /allnews.html
 ---
 
-# News
+## News
 
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>
