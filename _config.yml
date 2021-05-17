@@ -9,9 +9,9 @@
 title: Bodun Hu
 email: bodunhu@utexas.edu
 description: #> # this means to ignore newlines until "baseurl:"
-  Operating system, Linux kernel, hacking, acelerator, anything systems. Graduate student at UT Austin 
+  Operating system, network, Linux kernel, hacking, machine learning system, accelerator, anything system. PhD Student at University of Texas at Austin
 baseurl: ""
-url: ""
+url: "https://www.bodunhu.com"
 
 include:
   - .htaccess

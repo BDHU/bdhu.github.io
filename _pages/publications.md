@@ -1,13 +1,14 @@
 ---
-title: "Edward Hu - Publications"
+title: "Bodun Hu - Publications"
 layout: gridlay
-excerpt: "Edward Hu -- Publications."
-sitemap: false
+excerpt: "Bodun Hu -- Publications."
+sitemap: true
 permalink: /publications/
+last_modified_at: 17 May, 2021
 ---
 
 
-# Publications
+## Publications
 
 <!-- ## Group highlights
 
