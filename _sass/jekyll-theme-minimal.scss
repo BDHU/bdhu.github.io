@@ -28,7 +28,6 @@ h1 {
 
 h2 {
   color:#393939;
-  text-align: left;
 }
 
 h3, h4, h5, h6 {
@@ -42,6 +41,7 @@ a {
 
 a:hover, a:focus {
   color:#069;
+  // font-weight: bold;
 }
 
 a small {
@@ -55,17 +55,31 @@ a:hover small {
   color:#777;
 }
 
+// added
 p.addr {
   color:#777;
+  width: 175px;
 }
 
+// added
 p.link {
   margin:0 0 4px;
 }
 
+// added
+ul.link {
+  list-style-type: none; /* Remove bullets */
+  margin: 0; /* To remove default bottom margin */ 
+  padding: 0; /* To remove default left padding */
+}
+
+ul.link li + li {
+  margin-top: 6px;
+}
+
 .wrapper {
-  width:1000px;
-  // width:100%;
+  // width:860px;
+  width:870px;
   margin:0;
   // margin: 0 auto;
 }
@@ -80,7 +94,6 @@ blockquote {
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
   color:#333;
-  font-size:12px;
 }
 
 pre {
@@ -115,76 +128,89 @@ img {
   max-width:100%;
 }
 
+kbd {
+  background-color: #fafbfc;
+  border: 1px solid #c6cbd1;
+  border-bottom-color: #959da5;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #959da5;
+  color: #444d56;
+  display: inline-block;
+  font-size: 11px;
+  line-height: 10px;
+  padding: 3px 5px;
+  vertical-align: middle;
+}
+
 header {
-  width:165px;
+  width:175px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-header ul {
-  list-style:none;
-  height:40px;
-  padding:0;
-  background: #f4f4f4;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
-  width:270px;
-}
+// header ul {
+//   list-style:none;
+//   height:40px;
+//   padding:0;
+//   background: #f4f4f4;
+//   border-radius:5px;
+//   border:1px solid #e0e0e0;
+//   width:175px;  // matching header width
+// }
 
-header li {
-  width:89px;
-  float:left;
-  border-right:1px solid #e0e0e0;
-  height:40px;
-}
+// header li {
+//   width:89px;
+//   float:left;
+//   border-right:1px solid #e0e0e0;
+//   height:40px;
+// }
 
-header li:first-child a {
-  border-radius:5px 0 0 5px;
-}
+// header li:first-child a {
+//   border-radius:5px 0 0 5px;
+// }
 
-header li:last-child a {
-  border-radius:0 5px 5px 0;
-}
+// header li:last-child a {
+//   border-radius:0 5px 5px 0;
+// }
 
-header ul a {
-  line-height:1;
-  font-size:11px;
-  color:#676767;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:34px;
-}
+// header ul a {
+//   line-height:1;
+//   font-size:11px;
+//   color:#676767;
+//   display:block;
+//   text-align:center;
+//   padding-top:6px;
+//   height:34px;
+// }
 
-header ul a:hover, header ul a:focus {
-  color:#675C5C;
-  font-weight:bold;
-}
+// header ul a:hover, header ul a:focus {
+//   color:#675C5C;
+//   font-weight:bold;
+// }
 
-header ul a:active {
-  background-color:#f0f0f0;
-}
+// header ul a:active {
+//   background-color:#f0f0f0;
+// }
 
 strong {
   color:#222;
   font-weight:700;
 }
 
-header ul li + li + li {
-  border-right:none;
-  width:89px;
-}
+// header ul li + li + li {
+//   border-right:none;
+//   width:89px;
+// }
 
-header ul a strong {
-  font-size:14px;
-  display:block;
-  color:#222;
-}
+// header ul a strong {
+//   font-size:14px;
+//   display:block;
+//   color:#222;
+// }
 
 section {
-  max-width: 760px;
-  // width:100%;
+  max-width: 660px;
   float:right;
   padding-bottom:50px;
 }
@@ -195,10 +221,12 @@ small {
 
 hr {
   border:0;
-  background:#d3d3d3;
+  // background:#d3d3d3;
+  background:#e5e5e5;
   height:1px;
   width:30%;
-  margin:10px auto 30px;
+  // margin:10px auto 30px;
+  margin:0 0 20px;
 }
 
 footer {
@@ -223,14 +251,14 @@ footer {
   }
 
   header {
-    padding-right:300px;
+    padding-right:320px;
   }
 
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
-    margin:0 0 30px;
+    margin:0 0 20px;
   }
 
   header a small {
@@ -267,13 +295,13 @@ footer {
     padding:15px;
   }
 
-  header ul {
-    width:99%;
-  }
+  // header ul {
+  //   width:99%;
+  // }
 
-  header li, header ul li + li + li {
-    width:33%;
-  }
+  // header li, header ul li + li + li {
+  //   width:33%;
+  // }
 }
 
 @media print {
