@@ -1,20 +1,87 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-110211172-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-  {% include head.html %}
+      gtag('config', 'UA-110211172-1');
+    </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
+    <title>Bodun Hu | Personal Page</title>
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="canonical" href="https://stangelid.github.io" />
+    <meta name="viewport" content="width=device-width">
+
+    <meta property="og:title" content="Bodun Hu | Personal Page" />
+    <meta property="og:image" content="https://stangelid.github.io/images/avatar2.jpg" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description" content="{{ site.long_description }}" />
+    <meta name="og:description" content="{{ site.long_description }}" />
+    <link rel="canonical" href="https://stangelid.github.io/" />
+    <meta property="og:url" content="https://stangelid.github.io/" />
+    <meta property="og:site_name" content="Bodun Hu" />
+    <script type="application/ld+json">
+      {"name":"Bodun Hu","description":"{{ site.long_description }}","author":"Bodun Hu","@type":"WebSite","url":"https://stangelid.github.io/","image":"https://stangelid.github.io/images/avatar2.png","publisher":null,"headline":"Bodun Hu","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}
+    </script>
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
   <body>
+    <div class="wrapper">
+	  <!--googleoff: snippet-->
+      <header>
+        <img class="img-circle" src="./images/avatar2.jpg">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <p class="addr">&#x2709;&nbsp;&#115;&#046;&#097;&#110;&#103;&#101;&#108;&#105;&#100;&#105;&#115;&#064;&#101;&#100;&#046;&#097;&#099;&#046;&#117;&#107;</p>
+        <p>
+        Room 4.29<br/>
+        Informatics Forum<br/>
+        10 Crichton Street<br/>
+        Edinburgh, UK<br/>
+        EH8 9AB
+        </p>
+		<p class="link"><a target="_blank" href="https://scholar.google.co.uk/citations?user=vtFGk-MAAAAJ&hl=en">Google Scholar</a></p>
+        <p class="link">
+          <a target="_blank" href="https://www.linkedin.com/in/stangelid">LinkedIn</a>
+        </p>
+        <p class="link">
+          <a target="_blank" href="https://github.com/stangelid">Github</a>
+        </p>
+        <p class="link">
+          <a target="_blank" href="https://twitter.com/stangelid">Twitter</a><br/>
+        </p>
+        <p class="link"><a target="_blank" href="http://edinburghnlp.inf.ed.ac.uk/">GGTAG</a></p>
+        <p class="link"><a target="_blank" href="http://edinburghnlp.inf.ed.ac.uk/">Facebook</a></p>
+        <p class="link"><a target="_blank" href="http://edinburghnlp.inf.ed.ac.uk/">CV</a></p>
 
-    {% include header.html %}
-
-    <div class="container-fluid">
-      <div class="row">
-        {{ content }}
-      </div>
+      </header>
+	  <!--googleon: snippet-->
+      <section>
+      {{ content }}
+      </section>
     </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
-    {% include footer.html %}
 
+<!--  {% if site.google_analytics %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+  {% endif %}-->
   </body>
-
 </html>
