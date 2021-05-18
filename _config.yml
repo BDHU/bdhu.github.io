@@ -1,0 +1,8 @@
+title: Bodun Hu
+description: Personal Page
+long_description: Postdoctoral researcher at the Institute for Language, Computation and Cognition, University of Edinburgh. Member of EdinburghNLP.
+show_downloads: false
+google_analytics: UA-110211172-1
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
