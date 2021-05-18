@@ -77,6 +77,10 @@ ul.link li + li {
   margin-top: 6px;
 }
 
+ul.link:last-child {
+  margin-bottom: 6px;
+}
+
 .wrapper {
   // width:860px;
   width:870px;
