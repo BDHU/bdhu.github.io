@@ -83,7 +83,7 @@ ul.link:last-child {
 
 .wrapper {
   // width:860px;
-  width:870px;
+  width:875px;
   margin:0;
   // margin: 0 auto;
 }
@@ -147,10 +147,21 @@ kbd {
 }
 
 header {
+  // width:270px;
   width:175px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+
+  height: 100%;
+  // height: 800px;
+  overflow-y: scroll;
+  scrollbar-width: none;  // for firefox
+  -ms-overflow-style: none;
+  // overflow: scroll;
+}
+header::-webkit-scrollbar { // For chrome
+  display: none;
 }
 
 // header ul {
@@ -214,7 +225,7 @@ strong {
 // }
 
 section {
-  max-width: 660px;
+  width: 660px;
   float:right;
   padding-bottom:50px;
 }
@@ -229,8 +240,8 @@ hr {
   background:#e5e5e5;
   height:1px;
   width:30%;
-  // margin:10px auto 30px;
-  margin:0 0 20px;
+  margin:10px auto 30px;
+  // margin:0 0 20px;
 }
 
 footer {

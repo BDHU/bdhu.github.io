@@ -1,123 +1,40 @@
 ---
 layout: default
+title: About
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+My name is Bodun (though I usually go by Edward). I'm a Computer Science graduate student in the [SCEA group](https://github.com/utcs-scea) at the [University of Texas at Austin](https://www.utexas.edu/). I'm fortunate enough to collaborate closely with professor [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/). Previously, I also worked to professor [Simon Peter](https://www.cs.utexas.edu/~simon/) on multiple projects. I will be joining [WISR Lab](https://wisr.cs.wisc.edu/) under the supervision of professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) for my Ph.D. starting at Fall 2021.
 
-[Link to another page](./another-page.html).
+My research focuses on the intersection of operating systems, heterogeneity, and network. I am particularly interested in applying novel solutions to system designs where resource management is complex and challenging.
 
-There should be whitespace between paragraphs.
+One of the main objectives of my ongoing projects is to reason about suitable abstractions for multi-accelerator operating systems and provide insights in how to design modern operating systems for data centers to reduce data movement overhead.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I obtained both MSc and BS in Computer Science at the [University of Texas at Austin](https://www.utexas.edu/), in May 2021, under the supervision of Prof. [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/). My research had focused on modernizing GPGPU benchmarking, as well as automate API forwarding to OS kernel space applications.
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Papers
 
-## Header 2
+[Altis: Modernizing GPGPU Benchmarks](https://arxiv.org/pdf/1906.10347.pdf)  
+**Bodun Hu**, Chritopher J. Rossbach  
+ISPASS 2020  
+[ [video](https://www.youtube.com/watch?v=mRkcmjGzytY) ] [ [code](https://github.com/utcs-scea/altis) ]
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Complete Publications](./publications)
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Teaching Experience
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.utexas.edu/~simon/378/)
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Awards
 
-##### Header 5
+2020 ISPASS Student Travel Award  
+Research Distinction by the College of Natural Sciences
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<img style="width:70%;" src="https://raw.githubusercontent.com/BDHU/Page_pics/master/wordcloud.png"/>
