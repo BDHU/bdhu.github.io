@@ -1,8 +1,9 @@
 title: Bodun Hu
 description: Incoming PhD at UT Austin. OS, network, heterogeneity, anything system. Member of WISR Lab.
-long_description: Postdoctoral researcher at the Institute for Language, Computation and Cognition, University of Edinburgh. Member of EdinburghNLP.
+long_description: Incoming PhD at UT Austin. OS, network, heterogeneity, anything system. Member of WISR Lab.
 show_downloads: false
 google_analytics: UA-110211172-1
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-sitemap
+  - jekyll-seo
