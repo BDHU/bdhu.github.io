@@ -1,0 +1,8 @@
+title: Bodun Hu
+description: Home
+show_downloads: false
+google_analytics: UA-108144808-1
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
