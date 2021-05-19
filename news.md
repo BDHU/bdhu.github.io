@@ -3,7 +3,7 @@ layout: default
 title: News
 ---
 
-[back](./)
+[Back](./)
 
 ## News
 

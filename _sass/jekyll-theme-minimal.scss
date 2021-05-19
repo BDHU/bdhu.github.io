@@ -152,7 +152,7 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 
-  height: 100%;
+  height: calc(100% - 50px - 15px);
   // height: 800px;
   overflow-y: scroll;
   scrollbar-width: none;  // for firefox

@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-[back](./)
+[Back](./)
 
 ## Publication
 
