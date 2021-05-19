@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: ""
 ---
 
 My name is Bodun (though I usually go by Edward). I'm a Computer Science graduate student in the [SCEA group](https://github.com/utcs-scea) at the [University of Texas at Austin](https://www.utexas.edu/). I'm fortunate enough to collaborate closely with professor [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/). Previously, I also worked to professor [Simon Peter](https://www.cs.utexas.edu/~simon/) on multiple projects. I will be joining [WISR Lab](https://wisr.cs.wisc.edu/) under the supervision of professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) for my Ph.D. starting at Fall 2021.
