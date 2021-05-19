@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title:
 ---
 
 My name is Bodun (though I usually go by Edward). I'm a Computer Science graduate student in the [SCEA group](https://github.com/utcs-scea) at the [University of Texas at Austin](https://www.utexas.edu/). I'm fortunate enough to collaborate closely with professor [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/). Previously, I also worked to professor [Simon Peter](https://www.cs.utexas.edu/~simon/) on multiple projects. I will be joining [WISR Lab](https://wisr.cs.wisc.edu/) under the supervision of professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) for my Ph.D. starting at Fall 2021.
@@ -15,7 +15,7 @@ I obtained both MSc and BS in Computer Science at the [University of Texas at Au
 
 ## Papers
 
-[Altis: Modernizing GPGPU Benchmarks](https://arxiv.org/pdf/1906.10347.pdf)  
+**[Altis: Modernizing GPGPU Benchmarks](https://arxiv.org/pdf/1906.10347.pdf)**  
 **Bodun Hu**, Chritopher J. Rossbach  
 ISPASS 2020  
 [ [video](https://www.youtube.com/watch?v=mRkcmjGzytY) ] [ [code](https://github.com/utcs-scea/altis) ]
@@ -37,4 +37,20 @@ Research Distinction by the College of Natural Sciences
 
 ---
 
-<img style="width:70%;" src="https://raw.githubusercontent.com/BDHU/Page_pics/master/wordcloud.png"/>
+## News
+
+May 14, 2021: Finished everything for my last semester as a Masters student.
+
+April 10, 2021: **I've officially accepted the PhD offer at UT Austin and will be joining [WISR lab](https://wisr.cs.wisc.edu/) lead by Professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) starting at Fall 2021.**
+
+April 8, 2021: Attending [MLSys '21](https://mlsys.org/virtual/2021/calendar?showDetail=true).
+
+March 10, 2021: Finished [NSDI '22](https://www.usenix.org/conference/nsdi22) submission!
+
+March 1, 2021: Admitted to several Ph.D. programs!
+
+[...see all news](./news)
+
+---
+
+<img style="width:75%;" src="https://raw.githubusercontent.com/BDHU/Page_pics/master/wordcloud.png"/>
