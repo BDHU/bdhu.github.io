@@ -9,7 +9,7 @@ My research focuses on the intersection of operating systems, heterogeneity, and
 
 One of the main objectives of my ongoing projects is to reason about suitable abstractions for multi-accelerator operating systems and provide insights in how to design modern operating systems for data centers to reduce data movement overhead.
 
-I obtained both MSc and BS in Computer Science at the [University of Texas at Austin](https://www.utexas.edu/), in May 2021, under the supervision of Prof. [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/). My research had focused on modernizing GPGPU benchmarking, as well as automate API forwarding to OS kernel space applications.
+I obtained both MSc and BS in Computer Science at the [University of Texas at Austin](https://www.utexas.edu/), in May 2021, under the supervision of Prof. [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/). My research had been focusing on modernizing GPGPU benchmarking, as well as automate API forwarding to OS kernel space applications.
 
 ---
 
@@ -39,13 +39,10 @@ Research Distinction by the College of Natural Sciences
 
 ## News
 
-05/14/2021: Finished everything for my last semester as a Masters student.
-
-04/10/2021: **I've officially accepted the PhD offer at UT Austin and will be joining [WISR lab](https://wisr.cs.wisc.edu/) lead by Professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) starting at Fall 2021.**
-
-04/08/2021: Attending [MLSys '21](https://mlsys.org/virtual/2021/calendar?showDetail=true).
-
-03/10/2021: Finished [NSDI '22](https://www.usenix.org/conference/nsdi22) submission!
+* 05/14/2021: Finished everything for my last semester as a Masters student.
+* 04/10/2021: **I've officially accepted the PhD offer at UT Austin and will be joining [WISR lab](https://wisr.cs.wisc.edu/) lead by Professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) starting at Fall 2021.**
+* 04/08/2021: Attending [MLSys '21](https://mlsys.org/virtual/2021/calendar?showDetail=true).
+* 03/10/2021: Finished [NSDI '22](https://www.usenix.org/conference/nsdi22) submission!
 
 [...see all news](./news)
 
