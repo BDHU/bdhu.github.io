@@ -7,6 +7,10 @@ title: News
 
 ## News
 
+05/22/2021: Attending Commencement Ceremony. Webcast is available [here](https://video.ibm.com/recorded/126779814).
+
+05/21/2021: Attending CNS Graduate Recognition Moments. More information can be found @ [here](https://utaustin.fullmeasure.io/#/landing/?organization_id=45a81510-031d-467d-b972-378ad8e8d20a&card_id=524594a3-c44a-8da5-6dc5-7ba8abeafef9). Live stream @ [here](https://www.youtube.com/watch?v=ZrM4h9AhfgQ).
+
 05/14/2021: Finished everything for my last semester as a Masters student.
 
 04/10/2021: **I've officially accepted the PhD offer at UT Austin and will be joining [WISR lab](https://wisr.cs.wisc.edu/) lead by Professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) starting at Fall 2021.**
