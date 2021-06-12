@@ -37,6 +37,12 @@ Research Distinction by the College of Natural Sciences
 
 ---
 
+## Software
+
+**Altis**: a benchmarking suite for heterogeneous systems. The primary goal of this project is to improve and update aspects of existing benchmarking suites which are either insufficient or outdated. (url: [https://utcs-scea.github.io/altis/](https://utcs-scea.github.io/altis/))
+
+---
+
 ## News
 
 * 05/22/2021: **I officially graduated from UT Austin!**
