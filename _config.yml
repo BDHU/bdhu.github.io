@@ -6,3 +6,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jemoji
