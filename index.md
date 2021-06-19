@@ -41,6 +41,8 @@ Research Distinction by the College of Natural Sciences
 
 **Altis**: a benchmarking suite for heterogeneous systems. The primary goal of this project is to improve and update aspects of existing benchmarking suites which are either insufficient or outdated. ([https://utcs-scea.github.io/altis/](https://utcs-scea.github.io/altis/))
 
+**gpuinfo**: a minimal command-line utility written in Rust for querying GPU status. ([https://github.com/BDHU/gpuinfo](https://github.com/BDHU/gpuinfo))
+
 ---
 
 ## News
