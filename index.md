@@ -16,7 +16,7 @@ I obtained both MSc and BS in Computer Science at the [University of Texas at Au
 ## Papers
 
 **[Altis: Modernizing GPGPU Benchmarks](https://arxiv.org/pdf/1906.10347.pdf)**  
-**Bodun Hu**, Chritopher J. Rossbach  
+**Bodun Hu**, [Chritopher J. Rossbach](https://www.cs.utexas.edu/~rossbach/)  
 ISPASS 2020  
 [ [video](https://www.youtube.com/watch?v=mRkcmjGzytY) ] [ [code](https://github.com/utcs-scea/altis) ]
 
@@ -32,29 +32,29 @@ Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.ut
 
 ## Awards
 
-2020 ISPASS Student Travel Award  
-Research Distinction by the College of Natural Sciences
+- 2020 ISPASS Student Travel Award  
+- Research Distinction by the College of Natural Sciences
 
 ---
 
 ## Software
 
-**Altis**: a benchmarking suite for heterogeneous systems. The primary goal of this project is to improve and update aspects of existing benchmarking suites which are either insufficient or outdated. ([https://utcs-scea.github.io/altis/](https://utcs-scea.github.io/altis/))
+**[Altis](https://utcs-scea.github.io/altis/)**: a benchmarking suite for heterogeneous systems. The primary goal of this project is to improve and update aspects of existing benchmarking suites which are either insufficient or outdated.
 
-**gpuinfo**: a minimal command-line utility written in Rust for querying GPU status. ([https://github.com/BDHU/gpuinfo](https://github.com/BDHU/gpuinfo))
+**[gpuinfo](https://github.com/BDHU/gpuinfo)**: a minimal command-line utility written in Rust for querying GPU status.
 
 ---
 
 ## News
 
-* 05/22/2021: **I officially graduated from UT Austin!**
-* 05/22/2021: Attending Commencement Ceremony. Webcast is available [here](https://video.ibm.com/recorded/126779814).
-* 05/21/2021: Attending CNS Graduate Recognition Moments. More information can be found @ [here](https://utaustin.fullmeasure.io/#/landing/?organization_id=45a81510-031d-467d-b972-378ad8e8d20a&card_id=524594a3-c44a-8da5-6dc5-7ba8abeafef9). Live stream @ [here](https://www.youtube.com/watch?v=ZrM4h9AhfgQ).
-* 05/14/2021: Finished everything for my last semester as a Masters student.
-* 04/10/2021: **I've officially accepted the PhD offer at UT Austin and will be joining [WISR lab](https://wisr.cs.wisc.edu/) lead by Professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) starting at Fall 2021.**
+- 05/22/2021: **I officially graduated from UT Austin!**
+- 05/22/2021: Attending Commencement Ceremony. Webcast is available [here](https://video.ibm.com/recorded/126779814).
+- 05/21/2021: Attending CNS Graduate Recognition Moments. More information can be found @ [here](https://utaustin.fullmeasure.io/#/landing/?organization_id=45a81510-031d-467d-b972-378ad8e8d20a&card_id=524594a3-c44a-8da5-6dc5-7ba8abeafef9). Live stream @ [here](https://www.youtube.com/watch?v=ZrM4h9AhfgQ).
+- 05/14/2021: Finished everything for my last semester as a Masters student.
+- 04/10/2021: **I've officially accepted the PhD offer at UT Austin and will be joining [WISR lab](https://wisr.cs.wisc.edu/) lead by Professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) starting at Fall 2021.**
 
 [...see all news](./news)
 
 ---
 
-<img style="width:75%;" src="https://raw.githubusercontent.com/BDHU/Page_pics/master/wordcloud.png"/>
+<img style="width:80%;" src="https://raw.githubusercontent.com/BDHU/Page_pics/master/wordcloud.png"/>
