@@ -33,7 +33,7 @@ Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.ut
 ## Awards
 
 - 2020 ISPASS Student Travel Award  
-- Research Distinction by the College of Natural Sciences
+- [Research Distinction](https://cns.utexas.edu/undergraduate-education/events/cns-distinctions/2020-distinction-winners#bodun-hucomputer-science) by the College of Natural Sciences
 
 ---
 
