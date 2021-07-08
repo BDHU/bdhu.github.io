@@ -3,7 +3,7 @@ layout: default
 title: ""
 ---
 
-My name is Bodun (though I usually go by Edward). I'm a Computer Science graduate student in the [SCEA group](https://github.com/utcs-scea) at the [University of Texas at Austin](https://www.utexas.edu/). I'm fortunate enough to collaborate closely with professor [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/). Previously, I also worked with professor [Simon Peter](https://www.cs.utexas.edu/~simon/) on programmable switches. I will be joining [WISR Lab](https://wisr.cs.wisc.edu/) under the supervision of professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) for my Ph.D. starting at Fall 2021.
+My name is Bodun (though I usually go by Edward). I'm a Computer Science graduate student in the [SCEA group](https://github.com/utcs-scea) at the [University of Texas at Austin](https://www.utexas.edu/). I'm fortunate enough to collaborate closely with professor [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/) on heterogeneous computing systems. I also worked with professor [Simon Peter](https://www.cs.utexas.edu/~simon/) on programmable switches. I will be joining [WISR Lab](https://wisr.cs.wisc.edu/) under the supervision of professor [Aditya Akella](http://pages.cs.wisc.edu/~akella/) for my Ph.D. at UT starting at Fall 2021.
 
 My research focuses on the intersection of operating systems, heterogeneity, and network. I am particularly interested in applying novel solutions to system designs where resource management is complex and challenging.
 
