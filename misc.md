@@ -36,7 +36,7 @@ Just random stuffs I find interesting or worth putting down because I don't use 
 - [Evolution of the x86 context switch in Linux](https://www.maizure.org/projects/evolution_x86_context_switch_linux/)
 - [It’s Time for a Modern Synthesis Kernel](https://blog.regehr.org/archives/1676)
 - [Microsoft Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge/)
-- [The Unreasonable Ineffectiveness of Machine Learning in Computer Systems Research](https://www.sigarch.org/the-unreasonable-ineffectiveness-of-machine-learning-in-computer-systems-research/)
 - [Ray Tracing Resources Page](http://www.realtimerendering.com/raytracing.html)
 - [THE MANCHESTER PROTOTYPE DATAFLOW COMPUTER](https://courses.cs.washington.edu/courses/csep548/05sp/gurd-cacm85-prototype.pdf)
 - [BGPlay @ Route Views](http://bgplay.routeviews.org/)
+- [Heather Miller’s book on Programming Models for Distributed Computing](http://dist-prog-book.com/chapter/2/futures.html)
