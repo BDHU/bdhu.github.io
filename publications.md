@@ -7,7 +7,7 @@ title: Publications
 
 ## Publication
 
-[Altis: Modernizing GPGPU Benchmarks](https://arxiv.org/pdf/1906.10347.pdf)  
-**Bodun Hu**, Chritopher J. Rossbach  
-ISPASS 2020  
-[ [video](https://www.youtube.com/watch?v=mRkcmjGzytY) ] [ [code](https://github.com/utcs-scea/altis) ]
+[**<span style="color:#c11515">ISPASS'20</span>**]
+**Altis: Modernizing GPGPU Benchmarks**  
+**Bodun Hu**, [Chritopher J. Rossbach](https://www.cs.utexas.edu/~rossbach/)  
+[ [pdf](https://arxiv.org/pdf/1906.10347.pdf) ] [ [video](https://www.youtube.com/watch?v=mRkcmjGzytY) ] [ [code](https://github.com/utcs-scea/altis) ] [ [website](https://utcs-scea.github.io/altis/) ]
