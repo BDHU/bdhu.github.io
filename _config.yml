@@ -1,10 +1,15 @@
 title: Bodun Hu
+logo: /assets/img/logo.jpg
+email: bodunhu at utexas.edu
+blank_title: true
+favicon: true
 description: ""
 show_downloads: false
 google_analytics: UA-108144808-1
-theme: jekyll-theme-minimal
+remote_theme: BDHU/minimalist
 color-scheme: auto
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+  - jekyll-remote-theme
