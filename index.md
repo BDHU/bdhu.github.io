@@ -3,22 +3,22 @@ layout: default
 title: "Bodun Hu"
 ---
 
-My name is Bodun (though I usually go by Edward). I'm a CS PhD student in the [UTNS](https://utns.cs.utexas.edu/) research group at [UT Austin](https://www.utexas.edu/), led by professor [Aditya Akella](https://www.cs.utexas.edu/~akella/). Before I started my PhD, I was fortunate enough to collaborate closely with professor [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/) on heterogeneous computing systems at [SCEA group](https://github.com/utcs-scea). I also worked with professor [Simon Peter](https://www.cs.utexas.edu/~simon/) on programmable switches :metal:.
+My name is Bodun (though I usually go by Edward). I'm a CS PhD student in the [UTNS](https://utns.cs.utexas.edu/) lab at [UT Austin](https://www.utexas.edu/). I am advised by [Aditya Akella](https://www.cs.utexas.edu/~akella/) and work closely with [Neeraja Yadwadkar](https://sites.utexas.edu/neeraja/). Before I started my PhD, I was fortunate enough to collaborate closely with professor [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/) on heterogeneous computing systems at [SCEA group](https://github.com/utcs-scea). I also worked with professor [Simon Peter](https://www.cs.utexas.edu/~simon/) on programmable switches.
 
-My research focuses on the intersection of operating systems, network, and machine learning. I am particularly interested in applying novel solutions to system designs where resource management is complex and challenging.
+My research focuses on the intersection of operating systems, network, and machine learning. I am particularly interested in developing systems for ML, and applying ML techniques to systems.
 
 I obtained both MS and BS in Computer Science at the [UT Austin](https://www.utexas.edu/), where I worked on modernizing GPGPU benchmarking, as well as automating API forwarding to OS kernel space applications.
 
-Visit my [blog](https://www.bodunhu.com/blog/) :memo: to find out what I've been working on recently as well as other updates.
+Visit my [blog](https://www.bodunhu.com/blog/) <i class="fa-solid fa-pen"></i> to find out what I've been working on recently as well as other updates.
 
 ---
 
 ## Papers
 
-[**<span style="color:#c11515">ISPASS'20</span>**]
-**Altis: Modernizing GPGPU Benchmarks**  
-**Bodun Hu**, [Christopher J. Rossbach](https://www.cs.utexas.edu/~rossbach/)  
-[[pdf](https://arxiv.org/pdf/1906.10347.pdf)] [[video](https://www.youtube.com/watch?v=mRkcmjGzytY)] [[code](https://github.com/utcs-scea/altis)] [[website](https://utcs-scea.github.io/altis/)]
+**Altis: Modernizing GPGPU Benchmarks** [<i class="fa-solid fa-file"></i>](https://ieeexplore.ieee.org/document/9238617)  
+<u>Bodun Hu</u>, [Christopher J. Rossbach](https://www.cs.utexas.edu/~rossbach/)  
+In *Proceedings of the 2020 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)*. 2020  
+[[video](https://www.youtube.com/watch?v=mRkcmjGzytY)] [[code](https://github.com/utcs-scea/altis)] [[website](https://utcs-scea.github.io/altis/)]
 
 [Complete Publications](./publications)
 
