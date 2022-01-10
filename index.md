@@ -66,4 +66,4 @@ Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.ut
 
 ---
 
-<img style="width:55%;" src="https://raw.githubusercontent.com/BDHU/Page_pics/master/wordcloud.png"/>
+<img style="width:55%;" src="/assets/img/wordcloud.png"/>
