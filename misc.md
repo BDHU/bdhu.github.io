@@ -17,6 +17,7 @@ Just random stuffs I find interesting or worth putting down because I don't use 
 - [How to Write a Statement of Purpose for Grad School](https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school)
 
 ### Academia
+
 - [Systems Research Artifacts](https://sysartifacts.github.io/)
 - [OSDI Proceedings](https://www.usenix.org/publications/proceedings/OSDI)
 - [Conference Dates](https://www.gsd.inesc-id.pt/~ler/conferencedates.html)
