@@ -44,3 +44,4 @@ Just random stuffs I find interesting or worth putting down because I don't use 
 - [Heather Miller’s book on Programming Models for Distributed Computing](http://dist-prog-book.com/chapter/2/futures.html)
 - [ML for Systems Papers](http://dsg.csail.mit.edu/mlforsystems/papers/)
 - [ML Visualization Blog](https://jalammar.github.io/)
+- [Scaling Vision with Sparse Mixture of Experts](https://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html)
