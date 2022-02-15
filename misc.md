@@ -45,4 +45,8 @@ Just random stuffs I find interesting or worth putting down because I don't use 
 - [ML for Systems Papers](http://dsg.csail.mit.edu/mlforsystems/papers/)
 - [ML Visualization Blog](https://jalammar.github.io/)
 - [Scaling Vision with Sparse Mixture of Experts](https://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html)
+
+## Tools
+
+- [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor)
 - [The New System Font Stack?](https://bitsofco.de/the-new-system-font-stack/)
