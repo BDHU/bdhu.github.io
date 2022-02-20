@@ -67,4 +67,4 @@ Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.ut
 
 ---
 
-<img style="width:55%;" src="/assets/img/wordcloud.png"/>
+<img style="width:60%;" src="/assets/img/wordcloud.svg"/>
