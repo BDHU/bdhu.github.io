@@ -7,7 +7,7 @@ My name is Bodun (though I usually go by Edward). I'm a CS PhD student in the [U
 
 My research focuses on the intersection of operating systems, network, and machine learning. I am particularly interested in developing systems for ML, and applying ML techniques to systems.
 
-I obtained both MS and BS in Computer Science at the [UT Austin](https://www.utexas.edu/), where I worked on modernizing GPGPU benchmarking, as well as automating API forwarding to OS kernel space applications.
+I obtained both MS and BS in Computer Science at the [UT Austin](https://www.utexas.edu/), where I worked on modernizing GPU benchmarking and accelerating OS kernel access to accelerators.
 
 Visit my [blog](https://www.bodunhu.com/blog/) <i class="fa-solid fa-pen"></i> to find out what I've been working on recently as well as other updates.
 
