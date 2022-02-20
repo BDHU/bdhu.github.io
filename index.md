@@ -62,6 +62,7 @@ Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.ut
 [UTNS Lab](https://utns.cs.utexas.edu/)  
 [SCEA Lab](https://github.com/utcs-scea)  
 [Labotory for Advanced Systems Research](https://www.cs.utexas.edu/lasr/)  
+[Misc.](/misc)  
 [Notes](https://pages.github.austin.utexas.edu/bh28324/notes/)
 
 ---
