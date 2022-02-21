@@ -62,10 +62,10 @@ Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.ut
 [Machine Learning System Resources](https://www.bodunhu.com/blog/posts/machine-learning-system-resources/)  
 [UTNS Lab](https://utns.cs.utexas.edu/)  
 [SCEA Lab](https://github.com/utcs-scea)  
-[Labotory for Advanced Systems Research](https://www.cs.utexas.edu/lasr/)  
+[Laboratory for Advanced Systems Research](https://www.cs.utexas.edu/lasr/)  
 [Misc.](/misc)  
 [Notes](https://pages.github.austin.utexas.edu/bh28324/notes/)
 
 ---
 
-<img style="width:60%;" src="/assets/img/wordcloud.svg"/>
+<img style="width:350px;" src="/assets/img/wordcloud.svg"/>
