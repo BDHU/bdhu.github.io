@@ -5,6 +5,9 @@
     {% assign ColorScheme = site.color-scheme %}
 {% endcase %}
 
+{% assign assets_base_url = "https://cdn.jsdelivr.net/gh/BDHU/bdhu.github.io" %}
+{% assign theme_assets_base_url = "https://cdn.jsdelivr.net/gh/BDHU/minimalist" %}
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -16,10 +19,12 @@
     <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
-    <link rel="preload" href="{{site.logo | relative_url}}" as="image">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    {% if site.cdn.jsdelivr.enabled %}
+      <link rel="preload" href="{{ assets_base_url }}{{ site.logo }}" as="image">
+    {% else %}
+      <link rel="preload" href="{{ site.logo | relative_url }}" as="image">
+    {% endif %}
+
     {% include head-custom.html %}
   </head>
   <body>
@@ -27,7 +32,11 @@
       <div class="sidebar">
         <header>
           {% if site.logo %}
-            <img class="img-circle" src="{{site.logo | relative_url}}" alt="Logo">
+            {% if site.cdn.jsdelivr.enabled %}
+              <img class="img-circle" src="{{ assets_base_url }}{{ site.logo }}" alt="Logo">
+            {% else %}
+              <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo">
+            {% endif %}
           {% endif %}
 
           {% if site.blank_title %}
@@ -62,6 +71,10 @@
         {%- include footer.html -%}
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.cdn.jsdelivr.enabled %}
+      <script src="{{ theme_assets_base_url }}{{ "/assets/js/scale.fix.min.js" }}"></script>
+    {% else %}
+      <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% endif %}
   </body>
 </html>
