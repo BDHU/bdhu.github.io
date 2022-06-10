@@ -7,6 +7,7 @@ title: News
 
 ## News
 
+05/23/2022: I will be joining Intel XFG this summer!
 09/01/2021: Officially started my PhD.  
 05/22/2021: **I officially graduated from UT Austin!**  
 05/22/2021: Attending Commencement Ceremony. Webcast is available [here](https://video.ibm.com/recorded/126779814).  

@@ -12,6 +12,8 @@ I obtained both MS and BS in Computer Science at the [UT Austin](https://www.ute
 
 Visit my [blog](https://www.bodunhu.com/blog/) ✏️ to find out what I've been working on recently as well as other updates.
 
+
+
 ---
 
 ## Papers
@@ -48,11 +50,11 @@ Spring 2020: [Multicore Operating System Implementation (378)](https://www.cs.ut
 
 ## News
 
+05/23/2022: I will be joining Intel XFG this summer!
 09/01/2021: Officially started my PhD.  
 05/22/2021: **I officially graduated from UT Austin!**  
 05/22/2021: Attending Commencement Ceremony. Webcast is available [here](https://video.ibm.com/recorded/126779814).  
 05/21/2021: Attending CNS Graduate Recognition Moments. More information can be found @ [here](https://utaustin.fullmeasure.io/#/landing/?organization_id=45a81510-031d-467d-b972-378ad8e8d20a&card_id=524594a3-c44a-8da5-6dc5-7ba8abeafef9). Live stream @ [here](https://www.youtube.com/watch?v=ZrM4h9AhfgQ).  
-05/14/2021: Finished everything for my last semester as a Masters student.
 
 [...see all news](./news)
 
