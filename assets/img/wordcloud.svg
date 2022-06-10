@@ -1,0 +1,1073 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="960" height="600">
+
+<g transform="matrix(1 0 0 1 0 0)">
+	<g>
+	</g>
+	<g transform="matrix(1 0 0 1 480 300)">
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 118 -272)" x="-11.72" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+word
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 372 71)" x="-22.8" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+Algorithm
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -136 33)" x="-9.055" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+tree
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 306 -229)" x="-13.285" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+single
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 193 182)" x="-53.1025" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="55">
+data
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -427 -23)" x="-11.91" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+think
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 158 115)" x="-10.205" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+time
+		</text>
+		<text transform="matrix(1 0 0 1 39 -242)" x="-12.41" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+cloud
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -130 231)" x="-22.135" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+generator
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 147 24)" x="-10.61" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+hack
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -110 58)" x="-8.665" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+text
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 439 131)" x="-22.645" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+additional
+		</text>
+		<text transform="matrix(1 0 -0 1 -260 33)" x="-17.9" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+number
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 115 -160)" x="-11.615" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+Code
+		</text>
+		<text transform="matrix(1 0 -0 1 -266 41)" x="-15.065" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+source
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -79 131)" x="-18.81" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+Memory
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 302 46)" x="-11.16" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+open
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 103 102)" x="-157.3" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="100">
+system
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 174 129)" x="-105.65" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="100">
+page
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 127 -86)" x="-93.798" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="81">
+Deep
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -188 79)" x="-152.685" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="81">
+network
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 183 -175)" x="-119.475" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="81">
+MLSys
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 229 -38)" x="-64.05" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="100">
+OS
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -280 -70)" x="-94.5675" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="81">
+stack
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -191 -147)" x="-104.409" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="81">
+Linux
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -298 71)" x="-119.625" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="55">
+operating
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -47 -64)" x="-139.095" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="55">
+accelerator
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -304 -217)" x="-106.04" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="55">
+machine
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -45 -162)" x="-80.1075" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="55">
+neural
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -109 -45)" x="-17.82" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="55">
+R
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -318 -128)" x="-96.525" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="55">
+Pytorch
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -58 57)" x="-69.245" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="55">
+space
+		</text>
+		<text transform="matrix(1 0 -0 1 116 6)" x="-38.9675" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="55">
+file
+		</text>
+		<text transform="matrix(1 0 -0 1 315 131)" x="-80.9875" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="55">
+theory
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 283 -113)" x="-72.6" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="55">
+graph
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 292 14)" x="-55.275" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="55">
+Altis
+		</text>
+		<text transform="matrix(1 0 -0 1 35 -187)" x="-42.735" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="55">
+API
+		</text>
+		<text transform="matrix(1 0 -0 1 -98 -257)" x="-79.8875" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="55">
+utexas
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 354 -190)" x="-74.8825" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="55">
+CUDA
+		</text>
+		<text transform="matrix(1 0 -0 1 310 84)" x="-36.9325" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="55">
+Jax
+		</text>
+		<text transform="matrix(1 0 -0 1 -217 192)" x="-52.14" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="55">
+PhD
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 217 -159)" x="-19.56" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+FreeBSD
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -89 -114)" x="-9.43" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+BSD
+		</text>
+		<text transform="matrix(1 0 -0 1 -110 80)" x="-21.555" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+OpenBSD
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 258 -126)" x="-14.975" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+Kernel
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -212 -57)" x="-12.435" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+FPGA
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 270 37)" x="-9.85" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+GPU
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 55 -7)" x="-16.835" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+NVIDIA
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 188 91)" x="-11.12" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+AMD
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -80 -2)" x="-10.41" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+Intel
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 111 -44)" x="-22.955" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+Computer
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 68 79)" x="-3.44" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+C
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -78 -88)" x="-9.31" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+C++
+		</text>
+		<text transform="matrix(1 0 -0 1 10 -65)" x="-10.15" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+Rust
+		</text>
+		<text transform="matrix(1 0 0 1 192 -60)" x="-6.255" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+Go
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 23 -155)" x="-21.355" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+Assembly
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -85 70)" x="-15.435" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+Virtual
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 173 -48)" x="-18.75" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+learning
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -118 -37)" x="-10.675" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+DNN
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 134 -75)" x="-13.075" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+Paper
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 249 -37)" x="-22.99" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+OpenFlow
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 339 -36)" x="-19.405" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+OpenMP
+		</text>
+		<text transform="matrix(1 0 -0 1 -41 89)" x="-22.315" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+Barrelfish
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 175 145)" x="-6.61" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+M3
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 92 122)" x="-9.78" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+M3X
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -84 -98)" x="-9.775" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+CPU
+		</text>
+		<text transform="matrix(1 0 0 1 139 91)" x="-9.59" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+LRU
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -51 14)" x="-13.51" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+Policy
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 116 24)" x="-16.95" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+Parallel
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -57 -38)" x="-12.985" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+Clang
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 33 127)" x="-10.395" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+GCC
+		</text>
+		<text transform="matrix(1 0 -0 1 11 -55)" x="-13.245" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+signal
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -184 -102)" x="-14.225" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+RISCV
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 89 24)" x="-14.515" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+QEMU
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -71 65)" x="-11.86" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+VMM
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -106 111)" x="-14.77" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+syscall
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 119 167)" x="-11.855" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+SIMT
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -121 55)" x="-12.365" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+SIMD
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -56 111)" x="-13.83" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+Cache
+		</text>
+		<text transform="matrix(1 0 -0 1 -81 146)" x="-4.79" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+L1
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 249 144)" x="-5.335" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+L2
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 285 25)" x="-32.755" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+Regularization
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 291 -48)" x="-13.505" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+PTask
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 136 -225)" x="-36.355" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+synchronization
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 125 176)" x="-12.66" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+async
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -130 189)" x="-20.695" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+primitice
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 118 -244)" x="-25.585" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+transaction
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 24 -36)" x="-10.83" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+IEEE
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -29 1)" x="-10.945" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+ACM
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -70 -24)" x="-17.55" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+USENIX
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -129 -1)" x="-20.89" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+Deadlock
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -19 19)" x="-15.82" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+Tensor
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 43 -4)" x="-25.5" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+Tensorflow
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 37 -135)" x="-13.44" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+Torch
+		</text>
+		<text transform="matrix(1 0 -0 1 -143 -22)" x="-21.175" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+Compiler
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -227 36)" x="-16.42" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+Unified
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -51 -138)" x="-18.185" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+Address
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 131 -53)" x="-12.3" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+Disks
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 162 -182)" x="-13.33" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+Crash
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 389 23)" x="-26.735" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+Dependable
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -169 -48)" x="-24.7" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+Automated
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -182 -69)" x="-30.73" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+Virtualization
+		</text>
+		<text transform="matrix(1 0 -0 1 322 96)" x="-24.39" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+processing
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 351 -94)" x="-106.3425" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="55">
+dataflow
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 11 -164)" x="-13.795" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+driver
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 77 -39)" x="-14.915" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+invoke
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 347 -22)" x="-18.875" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+mulitple
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -105 96)" x="-9.475" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+root
+		</text>
+		<text transform="matrix(1 0 -0 1 -17 103)" x="-10.785" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+sudo
+		</text>
+		<text transform="matrix(1 0 0 1 -165 -8)" x="-17.685" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+support
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 154 -192)" x="-8.915" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+ESX
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -185 81)" x="-10.1" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+Blob
+		</text>
+		<text transform="matrix(1 0 -0 1 -259 21)" x="-23.145" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+Dandelion
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -20 -85)" x="-9.64" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+port
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -158 194)" x="-14.455" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+socket
+		</text>
+		<text transform="matrix(1 0 -0 1 59 -232)" x="-33.37" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+programmable
+		</text>
+		<text transform="matrix(1 0 -0 1 -190 -36)" x="-8.665" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+NIC
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -8 177)" x="-22.29" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+SmartNIC
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -148 55)" x="-9.015" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+SSD
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -261 -1)" x="-13.565" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+NVMe
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 35 161)" x="-16.3" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+volatile
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -132 -164)" x="-14.86" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+thread
+		</text>
+		<text transform="matrix(1 0 -0 1 24 195)" x="-21.79" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+coroutine
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 53 30)" x="-12.97" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+Corfu
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -200 62)" x="-15.62" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+header
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -53 194)" x="-20.24" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+bytecode
+		</text>
+		<text transform="matrix(1 0 0 1 -289 -19)" x="-29.105" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+intermediate
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -7 -231)" x="-33.385" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+representation
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -67 -69)" x="-16.54" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+devices
+		</text>
+		<text transform="matrix(1 0 -0 1 -7 40)" x="-11.035" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+table
+		</text>
+		<text transform="matrix(1 0 0 1 -148 -182)" x="-11.015" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+huge
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 356 -5)" x="-17.315" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+priority
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 272 154)" x="-12.755" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+Keras
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 372 8)" x="-13.345" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+frame
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 101 62)" x="-9.015" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+rate
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -161 24)" x="-13.795" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+buffer
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 206 188)" x="-31.295" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+stackoverflow
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -393 -64)" x="-33.415" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+bufferoverflow
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 74 -170)" x="-10.555" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+PTW
+		</text>
+		<text transform="matrix(1 0 -0 1 -116 -144)" x="-18.08" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+security
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -272 -44)" x="-15.46" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+rootkit
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 243 180)" x="-25.42" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+Publication
+		</text>
+		<text transform="matrix(1 0 -0 1 49 186)" x="-14.85" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+mouse
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 291 150)" x="-18.365" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+monitor
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 266 178)" x="-15.94" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+mutual
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -119 -213)" x="-22.62" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+serverless
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 190 22)" x="-12.61" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+client
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -77 90)" x="-9.135" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+side
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 49 204)" x="-12.58" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+effect
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 50 -67)" x="-11.4" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+mass
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -310 26)" x="-17.79" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+channel
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -299 -44)" x="-17.715" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+android
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 106 205)" x="-14.695" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+Tofino
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 55 228)" x="-27.71" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+architecture
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 59 -253)" x="-21.655" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+hardware
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -287 -3)" x="-16.605" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+science
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -109 -128)" x="-11.64" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+math
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 195 211)" x="-29" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+mathematics
+		</text>
+		<text transform="matrix(1 0 -0 1 124 219)" x="-13.125" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+linear
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 388 52)" x="-16.62" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+algebra
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -44 225)" x="-24.64" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+probability
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -281 -123)" x="-14.86" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+Statics
+		</text>
+		<text transform="matrix(1 0 -0 1 -115 -236)" x="-17.84" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+Masters
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 172 -104)" x="-10.575" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+used
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -309 -117)" x="-18.84" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+cameras
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -72 -190)" x="-28.76" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+modernizing
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 407 44)" x="-16.29" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+GPGPU
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 149 232)" x="-24.28" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+computing
+		</text>
+		<text transform="matrix(1 0 -0 1 8 207)" x="-15.525" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+cluster
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 329 144)" x="-17.43" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+kmeans
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -129 12)" x="-11.195" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+layer
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -241 -53)" x="-10.5" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+CNN
+		</text>
+		<text transform="matrix(1 0 -0 1 -319 -7)" x="-13.1" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+LSTM
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 6 226)" x="-10.3" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+RNN
+		</text>
+		<text transform="matrix(1 0 -0 1 275 197)" x="-21.825" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+recurrent
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -143 -228)" x="-14.825" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+ROCm
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -276 137)" x="-19.275" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+VMWare
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -225 57)" x="-9.47" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+TCP
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -21 147)" x="-9.95" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+UDP
+		</text>
+		<text transform="matrix(1 0 -0 1 241 -69)" x="-18.98" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+protocol
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -130 -93)" x="-9.385" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+http
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 199 -43)" x="-8.84" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+CSS
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -43 -233)" x="-17.195" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+website
+		</text>
+		<text transform="matrix(1 0 -0 1 -178 -228)" x="-11.995" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+jekyll
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 232 -43)" x="-6.09" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+EE
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 137 -252)" x="-20.73" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+electrical
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 442 11)" x="-29.28" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+interposition
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -395 69)" x="-21.18" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+advanced
+		</text>
+		<text transform="matrix(1 0 0 1 -342 -161)" x="-17.825" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+fairness
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 84 224)" x="-15.325" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+shared
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 297 174)" x="-9.605" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+RPC
+		</text>
+		<text transform="matrix(1 0 0 1 -147 150)" x="-12.545" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+LRPC
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -274 -213)" x="-22.13" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+scheduler
+		</text>
+		<text transform="matrix(1 0 0 1 -91 -11)" x="-8.155" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+fast
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -356 -253)" x="-36.4" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+multiprocessing
+		</text>
+		<text transform="matrix(1 0 -0 1 -223 201)" x="-34.275" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+multiprocessor
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 59 -269)" x="-29.72" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+multitenancy
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -196 -100)" x="-6.535" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+set
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 206 -90)" x="-8.53" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+gnu
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -430 -118)" x="-25.37" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+interpretor
+		</text>
+		<text transform="matrix(1 0 -0 1 82 148)" x="-6.92" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+big
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -361 137)" x="-23.595" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+portability
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 394 74)" x="-16.385" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+Crucial
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 220 -177)" x="-11.8" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+thing
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 332 161)" x="-11.805" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+UNIX
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -194 222)" x="-20.005" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+standard
+		</text>
+		<text transform="matrix(1 0 -0 1 -299 -189)" x="-24.045" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+prominent
+		</text>
+		<text transform="matrix(1 0 -0 1 275 -196)" x="-14.195" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+POSIX
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -151 171)" x="-12.045" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+avoid
+		</text>
+		<text transform="matrix(1 0 -0 1 -75 238)" x="-19.135" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+movidus
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 90 40)" x="-9.44" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+TPU
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -342 -18)" x="-19.62" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+overflow
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 185 -145)" x="-8.36" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+bug
+		</text>
+		<text transform="matrix(1 0 -0 1 441 -50)" x="-21.95" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+exception
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 35 227)" x="-17.505" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+handler
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -392 -136)" x="-19.235" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+meshing
+		</text>
+		<text transform="matrix(1 0 -0 1 -332 5)" x="-14.985" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+matrix
+		</text>
+		<text transform="matrix(1 0 -0 1 79 245)" x="-18.875" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+multiple
+		</text>
+		<text transform="matrix(1 0 -0 1 205 -116)" x="-8.3" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+add
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 205 223)" x="-19.11" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+opearint
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 294 -166)" x="-19.67" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+Iteration
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -426 -46)" x="-18.69" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+iterative
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -437 -67)" x="-21.125" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+approach
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 213 6)" x="-11.84" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+write
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -431 29)" x="-26.925" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+constructed
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 442 60)" x="-17.285" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+opinion
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -39 -6)" x="-8.405" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+soft
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 104 -122)" x="-8.675" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+real
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 369 161)" x="-21.34" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+inference
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -391 100)" x="-18.025" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+training
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -378 110)" x="-13.545" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+epoch
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 48 -83)" x="-9.83" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+SGD
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -182 233)" x="-22.505" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+stochastic
+		</text>
+		<text transform="matrix(1 0 -0 1 269 208)" x="-21.705" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+browning
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -209 -222)" x="-16.14" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+motion
+		</text>
+		<text transform="matrix(1 0 -0 1 -232 212)" x="-18.655" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+coloring
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -382 150)" x="-22.37" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+technique
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 431 -80)" x="-24.725" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+technology
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -222 141)" x="-15.53" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+deliver
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 369 -39)" x="-29.16" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+performance
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -150 -210)" x="-13.62" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+object
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -140 242)" x="-15.58" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+docker
+		</text>
+		<text transform="matrix(1 0 -0 1 -120 -247)" x="-21.62" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+container
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 113 -53)" x="-9.64" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+LXN
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -313 -265)" x="-25.44" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+lightweight
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -424 129)" x="-35.945" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+implementation
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 364 84)" x="-14.25" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+power
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 57 -186)" x="-14.33" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+plugin
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -186 -23)" x="-9.775" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+easy
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -104 -118)" x="-13.68" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+strace
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 29 -126)" x="-14.45" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+kerenl
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -409 36)" x="-14.35" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+ptrace
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 312 188)" x="-16.005" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+tracing
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 205 240)" x="-24.385" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+bootloader
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 250 231)" x="-13.91" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+mTCP
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 431 -171)" x="-24.125" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+datacenter
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 412 122)" x="-27.145" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+frameworks
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -409 47)" x="-16.62" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+pointer
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -185 34)" x="-8.565" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+raw
+		</text>
+		<text transform="matrix(1 0 -0 1 -413 84)" x="-18.855" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+pointers
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -295 117)" x="-13.66" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+xform
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 323 -119)" x="-10.3" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+grep
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -74 220)" x="-14.125" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+ggplot
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 112 252)" x="-12.785" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+touch
+		</text>
+		<text transform="matrix(1 0 -0 1 7 -74)" x="-8.35" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+vim
+		</text>
+		<text transform="matrix(1 0 -0 1 -67 246)" x="-14.125" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+emacs
+		</text>
+		<text transform="matrix(1 0 -0 1 335 178)" x="-14.595" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+syntax
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -425 -159)" x="-17.73" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+boolean
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 350 206)" x="-27.275" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+satisfiability
+		</text>
+		<text transform="matrix(1 0 0 1 -339 -174)" x="-19.085" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+problem
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -433 140)" x="-19.25" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+teaching
+		</text>
+		<text transform="matrix(1 0 -0 1 -43 259)" x="-17.07" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+current
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 2 -176)" x="-9.68" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+flow
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -369 174)" x="-18.75" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+groupby
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -405 -221)" x="-26.29" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+MapReduce
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 21 255)" x="-13.07" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+Spark
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 27 -266)" x="-12.87" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+range
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 129 248)" x="-12.48" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+index
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -220 -93)" x="-9.525" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+max
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 111 -180)" x="-8.89" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+min
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -222 -158)" x="-12.025" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+small
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -24 220)" x="-14.305" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+copies
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 86 -268)" x="-12.04" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+pipes
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -12 250)" x="-18.215" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+pipeline
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 443 95)" x="-15.31" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+bubble
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 180 -274)" x="-19.13" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+segment
+		</text>
+		<text transform="matrix(1 0 -0 1 -412 -248)" x="-30.58" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+segmentation
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -446 -10)" x="-17.88" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+internal
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 430 -108)" x="-18.555" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+external
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 75 262)" x="-17.015" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+enables
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -433 57)" x="-10.55" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+EAM
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 71 -287)" x="-10.745" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+ARM
+		</text>
+		<text transform="matrix(1 0 -0 1 -87 255)" x="-13.175" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+board
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 208 -267)" x="-17.7" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+hacking
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -34 -241)" x="-11.38" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+main
+		</text>
+		<text transform="matrix(1 0 -0 1 290 -212)" x="-17.325" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+method
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -374 189)" x="-14.015" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+clocks
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 239 -104)" x="-8.415" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+tick
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 376 -132)" x="-11.34" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+cycle
+		</text>
+		<text transform="matrix(1 0 -0 1 39 277)" x="-24.36" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+researcher
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -245 233)" x="-19.605" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+research
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -258 -101)" x="-7.55" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+fun
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -161 253)" x="-13.055" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+funny
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -68 12)" x="-11.995" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+three
+		</text>
+		<text transform="matrix(1 0 0 1 -35 273)" x="-20.31" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+quantum
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -316 216)" x="-31.195" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+programming
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 229 244)" x="-20.11" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+language
+		</text>
+		<text transform="matrix(1 0 -0 1 -234 256)" x="-24.27" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+presenting
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 286 234)" x="-23.575" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+qualitative
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 412 140)" x="-14.86" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+survey
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -333 219)" x="-22.62" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+responses
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -76 114)" x="-7.155" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+tail
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 163 -273)" x="-16.155" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+latency
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 139 266)" x="-17.88" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+product
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -6 -286)" x="-12.79" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+social
+		</text>
+		<text transform="matrix(1 0 0 1 -289 -31)" x="-13.83" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+media
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 54 167)" x="-11.885" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+posts
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -21 -27)" x="-9.835" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+socc
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 150 -219)" x="-9.805" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+help
+		</text>
+		<text transform="matrix(1 0 -0 1 -115 268)" x="-15.5" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+insight
+		</text>
+		<text transform="matrix(1 0 -0 1 416 -208)" x="-17.85" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+analysis
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -89 -164)" x="-6.59" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+CV
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -180 256)" x="-19.33" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+graphics
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -124 214)" x="-11.8" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+value
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 444 -121)" x="-18.535" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+valuable
+		</text>
+		<text transform="matrix(1 0 -0 1 -252 10)" x="-11.42" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+mine
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -390 -20)" x="-15.67" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+bitcoin
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -386 208)" x="-24.475" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+blockchain
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -429 194)" x="-27.38" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+hyperledger
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 294 -61)" x="-7.61" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+rail
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -322 -278)" x="-15.82" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+reform
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -268 232)" x="-18.25" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+opening
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -292 256)" x="-16.63" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+storage
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 143 277)" x="-18.685" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+medium
+		</text>
+		<text transform="matrix(1 0 0 1 130 -292)" x="-9.53" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+ECE
+		</text>
+		<text transform="matrix(1 0 0 1 261 -102)" x="-10.815" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+offer
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 -264 -283)" x="-14.47" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+offline
+		</text>
+		<text transform="matrix(1 0 0 1 -83 276)" x="-14.135" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+online
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 307 263)" x="-37.99" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+reinforancement
+		</text>
+		<text transform="matrix(0.8660254 -0.50000006 0.50000006 0.8660254 248 70)" x="-4.845" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+AI
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 297 -273)" x="-18.89" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="10">
+artificial
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -349 235)" x="-26.19" y="0" style="fill:#E55934;font-family:Playfair Display;" font-size="10">
+intelligence
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -309 102)" x="-9.43" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+fake
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -162 -72)" x="-7.295" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+ML
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 420 149)" x="-14.36" y="0" style="fill:#4ECDC4;font-family:Playfair Display;" font-size="10">
+RDMA
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -112 167)" x="-9.36" y="0" style="fill:#F7C4F7;font-family:Playfair Display;" font-size="10">
+Flax
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 446 -28)" x="-13.395" y="0" style="fill:#FF6B6B;font-family:Playfair Display;" font-size="10">
+Haiku
+		</text>
+		<text transform="matrix(0.49999997 -0.86602545 0.86602545 0.49999997 -154 265)" x="-19.01" y="0" style="fill:#CE4CA3;font-family:Playfair Display;" font-size="10">
+FlexFlox
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -409 206)" x="-12.05" y="0" style="fill:#5BC0EB;font-family:Playfair Display;" font-size="10">
+Piper
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 380 -255)" x="-25.15" y="0" style="fill:#2866A2;font-family:Playfair Display;" font-size="10">
+DeepSpeed
+		</text>
+		<text transform="matrix(0.8660254 0.49999994 -0.49999994 0.8660254 -313 102)" x="-78.045" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="55">
+server
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 212 82)" x="-9.26" y="0" style="fill:#FFB053;font-family:Playfair Display;" font-size="10">
+XLA
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 400 188)" x="-20.825" y="0" style="fill:#1A535C;font-family:Playfair Display;" font-size="10">
+Autograd
+		</text>
+		<text transform="matrix(0.50000006 0.8660253 -0.8660253 0.50000006 -332 161)" x="-68.9425" y="0" style="fill:#87FF87;font-family:Playfair Display;" font-size="55">
+caller
+		</text>
+	</g>
+</g>
+</svg>

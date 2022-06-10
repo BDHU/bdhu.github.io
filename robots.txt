@@ -1,8 +1,4 @@
-
 User-agent: *
-Disallow: /tags/
-Disallow: /page/
-Disallow: /categories/
-Disallow: /about/
+Allow: /
 
-https://www.bodunhu.com/sitemap.xml
+Sitemap: https://www.bodunhu.com/sitemap.xml
