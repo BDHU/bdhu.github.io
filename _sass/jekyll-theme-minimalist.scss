@@ -140,8 +140,8 @@ kbd {
 }
 
 .sidebar {
-  // width:175px;
-  width: 165px;
+  // width:165px;
+  width: 225px;
   float: left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -176,7 +176,8 @@ strong {
 }
 
 section {
-  width: 625px;
+  // width: 625px;
+  width: 550px;
   float:right;
   padding-bottom:30px;
 }
