@@ -7,7 +7,11 @@ title: Publications
 
 ## Publication
 
+**Towards a Machine Learning-Assisted Kernel with LAKE**  
+[Henrique Fingler](https://github.com/hfingler), Isha Tarte, [Hangchen Yu](https://scholar.google.com/citations?user=d-mFGLgAAAAJ&hl=en), [Ariel Szekely](https://arielszekely.github.io/), <u>Bodun Hu</u>, [Aditya Akella](https://www.cs.utexas.edu/~akella/), [Christopher J. Rossbach](https://www.cs.utexas.edu/~rossbach/)  
+**<span style="color:orangered">ASPLOS 2023</span>**
+
 **Altis: Modernizing GPGPU Benchmarks**  
 <u>Bodun Hu</u>, [Christopher J. Rossbach](https://www.cs.utexas.edu/~rossbach/)  
-In *Proceedings of the 2020 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)*. 2020  
-[pdf](https://ieeexplore.ieee.org/document/9238617) | [video](https://www.youtube.com/watch?v=mRkcmjGzytY) | [code](https://github.com/utcs-scea/altis) | [website](https://utcs-scea.github.io/altis/)
+**<span style="color:orangered">ISPASS 2020</span>**  
+[[pdf]](https://ieeexplore.ieee.org/document/9238617) [[video]](https://www.youtube.com/watch?v=mRkcmjGzytY) [[code]](https://github.com/utcs-scea/altis) [[website]](https://utcs-scea.github.io/altis/)
