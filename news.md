@@ -7,6 +7,7 @@ title: News
 
 ## News
 
+09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
 05/23/2022: I will be joining Intel XFG this summer!  
 09/01/2021: Officially started my PhD.  
 05/22/2021: **I officially graduated from UT Austin!**  
