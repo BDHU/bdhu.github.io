@@ -9,7 +9,7 @@ My research focuses on the intersection of operating systems, network, and machi
 
 I obtained both MS and BS in Computer Science at the [UT Austin](https://www.utexas.edu/), where I worked on modernizing GPU benchmarking and accelerating OS kernel access to accelerators.
 
-Visit my [blog](https://www.bodunhu.com/blog/) ✏️ to find out what I've been working on recently as well as other updates.
+Visit my [blog](https://www.bodunhu.com/blog/) to find out what I've been working on recently as well as other updates.
 
 ---
 
