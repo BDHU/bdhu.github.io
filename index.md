@@ -26,6 +26,11 @@ Visit my [blog](https://www.bodunhu.com/blog/) to find out what I've been workin
 
 ## Publications
 
+**MOSEL: Inference Serving Using Dynamic Modality Selection**  
+<u>Bodun Hu</u>, [Le Xu](https://lexu.space/), [Jeongyoon Moon](https://www.linkedin.com/in/jeongyoon-moon-8434731bb/), [Neeraja J. Yadwadkar](https://sites.utexas.edu/neeraja/), [Aditya Akella](https://www.cs.utexas.edu/~akella/)  
+**Preprint 2023**  
+[[pdf]](https://arxiv.org/pdf/2310.18481.pdf)
+
 **Towards a Machine Learning-Assisted Kernel with LAKE**  
 [Henrique Fingler](https://github.com/hfingler), Isha Tarte, [Hangchen Yu](https://scholar.google.com/citations?user=d-mFGLgAAAAJ&hl=en), [Ariel Szekely](https://arielszekely.github.io/), <u>Bodun Hu</u>, [Aditya Akella](https://www.cs.utexas.edu/~akella/), [Christopher J. Rossbach](https://www.cs.utexas.edu/~rossbach/)  
 **<span style="color:orangered">ASPLOS 2023</span>**  
@@ -36,7 +41,7 @@ Visit my [blog](https://www.bodunhu.com/blog/) to find out what I've been workin
 **<span style="color:orangered">ISPASS 2020</span>**  
 [[pdf]](https://ieeexplore.ieee.org/document/9238617) [[video]](https://www.youtube.com/watch?v=mRkcmjGzytY) [[code]](https://github.com/utcs-scea/altis) [[website]](https://utcs-scea.github.io/altis/)
 
-[Complete Publications](./publications)
+<!-- [Complete Publications](./publications) -->
 
 ---
 
