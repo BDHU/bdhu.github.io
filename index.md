@@ -41,8 +41,6 @@ Check out my [blog](https://www.bodunhu.com/blog/) for my latest projects and ne
 **<span style="color:orangered">ISPASS 2020</span>**  
 [[pdf]](https://ieeexplore.ieee.org/document/9238617) [[video]](https://www.youtube.com/watch?v=mRkcmjGzytY) [[code]](https://github.com/utcs-scea/altis) [[website]](https://utcs-scea.github.io/altis/)
 
-<!-- [Complete Publications](./publications) -->
-
 ---
 
 ## Teaching Experience
