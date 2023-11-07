@@ -11,7 +11,6 @@ gem "jekyll-remote-theme"
 # `require': cannot load such file -- webrick (LoadError)
 # adding this avoids it
 gem "webrick"
-gem "bigdecimal"
 
 # adding the following gems to support removal of "github-pages" dependency
 gem "jemoji"
