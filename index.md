@@ -3,13 +3,13 @@ layout: default
 title: "Bodun Hu"
 ---
 
-My <img class="profile-picture" src="https://cdn.jsdelivr.net/gh/BDHU/bdhu.github.io/assets/img/logo.jpg"> name is Bodun (though I usually go by Edward). I'm a CS PhD student in the [UTNS](https://utns.cs.utexas.edu/) lab at [UT Austin](https://www.utexas.edu/) 🤘.  I am co-advised by [Aditya Akella](https://www.cs.utexas.edu/~akella/) and [Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang). Before I started my PhD, I was fortunate enough to collaborate closely with professor [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/) on heterogeneous computing systems at [SCEA group](https://github.com/utcs-scea). I also worked with professor [Simon Peter](https://homes.cs.washington.edu/~simpeter/) on programmable switches.
+My <img class="profile-picture" src="https://cdn.jsdelivr.net/gh/BDHU/bdhu.github.io/assets/img/logo.jpg"> name is Bodun (though I usually go by Edward). I’m a CS PhD student at [UT Austin](https://www.utexas.edu/) 🤘, working in the [UTNS](https://utns.cs.utexas.edu/) lab with [Aditya Akella](https://www.cs.utexas.edu/~akella/) and [Atlas Wang](https://www.ece.utexas.edu/people/faculty/atlas-wang). My research lies at the intersection of operating systems, network, and machine learning. I love building systems for ML and using ML to enhance systems.
 
-My research focuses on the intersection of operating systems, network, and machine learning. I am particularly interested in developing systems for ML, and applying ML techniques to systems.
+Before my PhD, I worked with [Christopher Rossbach](https://www.cs.utexas.edu/~rossbach/) on heterogeneous computing at [SCEA lab](https://github.com/utcs-scea), and with [Simon Peter](https://homes.cs.washington.edu/~simpeter/) on programmable switches.
 
-I obtained both MS and BS in Computer Science at the [UT Austin](https://www.utexas.edu/), where I worked on modernizing GPU benchmarking and accelerating OS kernel access to accelerators.
+I have a MS and a BS in Computer Science from UT Austin, where I also worked on GPU benchmarking and enabling OS kernel access to accelerators.
 
-Visit my [blog](https://www.bodunhu.com/blog/) to find out what I've been working on recently as well as other updates.
+Check out my [blog](https://www.bodunhu.com/blog/) for my latest projects and news.
 
 ---
 
