@@ -26,6 +26,11 @@ Check out my [blog](https://www.bodunhu.com/blog/) for my latest projects and ne
 
 ## Publications
 
+**FFN-SkipLLM: A Hidden Gem for Autoregressive Decoding with Adaptive Feed Forward Skipping**  
+[Ajay Jaiswal](https://ajay1994.github.io/), <u>Bodun Hu</u>, [Lu Yin](https://luuyin.com/), [Yeonju Ro](https://sites.google.com/view/hey-yeonju), [Shiwei Liu](https://shiweiliuiiiiiii.github.io/), [Tianlong Chen](https://tianlong-chen.github.io/), [Aditya Aeklla](https://www.cs.utexas.edu/~akella/)  
+**Prepint 2023**  
+[[pdf]](https://arxiv.org/pdf/2404.03865.pdf)
+
 **MOSEL: Inference Serving Using Dynamic Modality Selection**  
 <u>Bodun Hu</u>, [Le Xu](https://lexu.space/), [Jeongyoon Moon](https://www.linkedin.com/in/jeongyoon-moon-8434731bb/), [Neeraja J. Yadwadkar](https://sites.utexas.edu/neeraja/), [Aditya Akella](https://www.cs.utexas.edu/~akella/)  
 **Preprint 2023**  
