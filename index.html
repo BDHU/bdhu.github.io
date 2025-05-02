@@ -1,232 +1,202 @@
-<!doctype html>
-<html lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@soumithchintala"> -->
+    <!-- <script defer="defer" data-domain="bodunhu.com" src="Soumith%20Chintala_files/noop.js"></script> -->
+    <link rel="canonical" href="https://www.bodunhu.com/">
+
     <title>Bodun Hu</title>
-    <link rel="stylesheet" href="./css/style.css">
-    <script src=" https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/js/all.min.js "></script>
-    <link href=" https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/css/fontawesome.min.css " rel="stylesheet">
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous"> -->
-    <meta name="viewport" content="width=device-width">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!-- <script type="text/javascript"> 
-        function play(audio_id){
-            var audio = document.getElementById(audio_id);
-            audio.play();
+    <style>
+        body {
+            line-height: 1.5;
+            max-width: 650px;
+            margin: 50px auto;
+            padding: 20px;
         }
-        function showHide(shID) {
-            if (document.getElementById(shID)) {
-                if (document.getElementById(shID).style.display == 'none') {
-                    document.getElementById(shID).style.display = 'inline';
-                }
-                else {
-                    document.getElementById(shID).style.display = 'inline';
-                    document.getElementById(shID).style.display = 'none';
-                }
-            }
+
+        nav a {
+            margin-right: 10px;
         }
-    </script> -->
-  </head>
-  <body>
+
+        .name-link {
+            color: black;
+            /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); */
+            text-decoration: none;
+            font-size: 1.5em;
+            /* Increased font size */
+            font-weight: bold;
+            /* Added to ensure the text remains bold */
+        }
+
+        details>summary {
+            list-style: none;
+        }
+
+        /* details > summary::-webkit-details-marker {
+	  display: none;
+      } */
+    </style>
+</head>
+
+<body>
     <header>
-    <div id="header-container">
-        <div id="header">
-            <div id="header-img">
-                <img src="./files/logo.png" alt="Profile picture for Bodun Hu." />
-            </div>
-            <div id="header-content">
-                <div class="header-block">
-                <h1>Bodun Hu</h1>
-		<h5>PhD Student<br> <a href="https://www.cs.utexas.edu/">Computer Science</a><br>
-                <a href="https://www.utexas.edu//">UT Austin</a> | <a href="https://utns.cs.utexas.edu/">UTNS</a> | <a href="https://www.cs.utexas.edu/research/systems-and-networking">UT Sys</a>
-			</h5>
-                </div>
-                <div class="header-block">
-		    <div class="header-link"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align: -0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><path d="m22 6l-10 7L2 6"/></g></svg> Email: bodunhu at utexas.edu</a></div><br>
-                    <!-- <div class="header-link"><i class="fa-solid fa-location-dot fa-fw"></i>GDC 6.728E</a></div><br> -->
-					<div class="header-link">
-                        <a href="./files/cv.pdf"><svg xmlns="http://www.w3.org/2000/svg" width="1.15em" height="1.15em" viewBox="0 0 24 24" style="vertical-align:-0.185em;margin: 0 0.08em 0 -0.04em;">
-                            <path fill="currentColor" d="M 6 2 C 4.9057453 2 4 2.9057453 4 4 L 4 20 C 4 21.094255 4.9057453 22 6 22 L 18 22 C 19.094255 22 20 21.094255 20 20 L 20 8 L 14 2 L 6 2 z M 6 4 L 13 4 L 13 9 L 18 9 L 18 20 L 6 20 L 6 4 z"></path>
-                            </svg>CV</a>
-					    <a href="https://twitter.com/bodunhu"><svg xmlns="http://www.w3.org/2000/svg" width="1.04em" height="1.04em" viewBox="0 0 44 44" style="vertical-align:-0.125em;margin: 0 0.08em 0 0.0em;">
-                            <path fill="currentColor"  d="M 5.9199219 6 L 20.582031 27.375 L 6.2304688 44 L 9.4101562 44 L 21.986328 29.421875 L 31.986328 44 L 44 44 L 28.681641 21.669922 L 42.199219 6 L 39.029297 6 L 27.275391 19.617188 L 17.933594 6 L 5.9199219 6 z M 9.7167969 8 L 16.880859 8 L 40.203125 42 L 33.039062 42 L 9.7167969 8 z"></path>
-                            </svg>X</a>
-                        <a href="https://www.bodunhu.com/blog"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;margin: 0 0.08em 0 0.08em;" width="0.95em" height="0.95em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512">
-                            <path fill="currentColor" d="M362.7 19.32c25-24.998 65.6-24.998 90.6 0l39.4 39.43c25 24.99 25 65.55 0 90.55l-48.4 48.4l-130-129.98l48.4-48.4zm59 200.98L188.5 453.4c-10.4 10.4-23.3 18.1-37.4 22.2L30.77 511c-8.42 2.5-17.53.2-23.74-6.9c-6.21-5.3-8.532-14.4-6.054-22.9L36.37 360.9c4.16-14.1 11.79-27 22.2-37.4L291.7 90.34l130 129.96z"/>
-                            </svg>Blog</a>
-                    </div>
-					<br>
-		    <div class="header-link">
-				<a href="https://github.com/BDHU"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="margin: 0 0.08em 0 0.08em; vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 512 512"><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6c-3.3.3-5.6-1.3-5.6-3.6c0-2 2.3-3.6 5.2-3.6c3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9c2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9c.3 2 2.9 3.3 5.9 2.6c2.9-.7 4.9-2.6 4.6-4.6c-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2c12.8 2.3 17.3-5.6 17.3-12.1c0-6.2-.3-40.4-.3-61.4c0 0-70 15-84.7-29.8c0 0-11.4-29.1-27.8-36.6c0 0-22.9-15.7 1.6-15.4c0 0 24.9 2 38.6 25.8c21.9 38.6 58.6 27.5 72.9 20.9c2.3-16 8.8-27.1 16-33.7c-55.9-6.2-112.3-14.3-112.3-110.5c0-27.5 7.6-41.3 23.6-58.9c-2.6-6.5-11.1-33.3 2.6-67.9c20.9-6.5 69 27 69 27c20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27c13.7 34.7 5.2 61.4 2.6 67.9c16 17.7 25.8 31.5 25.8 58.9c0 96.5-58.9 104.2-114.8 110.5c9.2 7.9 17 22.9 17 46.4c0 33.7-.3 75.4-.3 83.6c0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252C496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2c1.6 1.6 3.9 2.3 5.2 1c1.3-1 1-3.3-.7-5.2c-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9c1.6 1 3.6.7 4.3-.7c.7-1.3-.3-2.9-2.3-3.9c-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2c2.3 2.3 5.2 2.6 6.5 1c1.3-1.3.7-4.3-1.3-6.2c-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9c1.6 2.3 4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2c-1.4-2.3-4-3.3-5.6-2z"/></svg>GitHub</a>		
-				<a href="https://scholar.google.com/citations?user=zR6afi8AAAAJ"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="margin: 0 0.08em 0 0.08em; vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>Google Scholar</a></div> 
-			<br>
-	            <!-- <div class="header-link"><a href="https://www.bodunhu.com/blog"><i class="fa-solid fa-pen-to-square fa-fw"></i>Blog</a></div> -->
-	            <!-- <a href="https://www.semanticscholar.org/author/Eunsol-Choi/2890423"><i class="ai ai-semantic-scholar ai"></i>Semantic Scholar</a> -->
-				<!-- <br> -->
-			<a href="#teaching"> [teaching]</a> 
-			<a href="#publications">[publication]</a> 
-			<a href="#personal">[misc.]</a>
-		</div>
-               </div>
-        </div>
-    </div>
+        <nav>
+            <a href="https://www.bodunhu.com" class="name-link"><b>Bodun Hu</b></a>
+            |&nbsp;&nbsp; <a href="https://www.bodunhu.com/blog">Blog</a>
+            <a href="/files/cv.pdf">CV</a>
+            <a href="https://x.com/bodunhu">X</a>
+            <a href="https://github.com/BDHU">GitHub</a>
+            <a href="https://scholar.google.com/citations?user=zR6afi8AAAAJ&hl=en">Publications</a>
+        </nav>
     </header>
-    <div id="content">
-	<!-- <p>	
-		My name is Bodun (though I usually go by Edward). I'm a PhD student at UT Austin, working in the UTNS lab with Aditya Akella and Atlas Wang. My research lies at the intersection of operating systems, network, and machine learning. I love building systems for ML and using ML to enhance systems.
-	</p>
-	<p>	
-		Before my PhD, I worked with Christopher Rossbach on heterogeneous computing at SCEA lab, and with Simon Peter on programmable switches.
-	</p>	
-	<p>	
-		I have a MS and a BS in Computer Science from UT Austin, where I also worked on GPU benchmarking and enabling OS kernel access to accelerators.
+    <main>
+        <p>My name is Bodun Hu (though I usually go by Edward). I'm a PhD student at <a href="https://www.utexas.edu/">UT Austin</a>,
+            majoring in Computer Science. I'm fortunately to be advised by <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a>
+            at <a href="https://utns.cs.utexas.edu/">UTNS</a> lab.</p>
 
-		Check out my blog for my latest projects and news.
-	</p> -->
-        <p class="small">
-			My name is Bodun (though I usually go by Edward). I'm a PhD student at UT Austin, working in the <a href="https://utns.cs.utexas.edu/">UTNS</a>
-			lab with <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a>. My research lies at the intersection of machine learning, operating systems, and network. I love building systems for ML and using ML to enhance systems.
-		</p>
-		<p class="small">
-			Before my PhD, I worked with <a href="https://www.cs.utexas.edu/~rossbach/">Christopher Rossbach</a> on heterogeneous computing at SCEA lab, and with <a href="https://homes.cs.washington.edu/~simpeter/">Simon Peter</a> on programmable switches.
-		</p>
-		<p class="small">
-			I have a MS and a BS in Computer Science from UT Austin, where I also worked on GPU benchmarking and enabling OS kernel access to accelerators.
-		</p>
-		<!-- <p class="small">
-			Check out my blog for my latest projects and news.
-		</p> -->
+        <p>My research lies at the intersection of machine learning, operating systems, and network. I love building systems for ML.</p>
 
-		<p class="small">
-			I am happy to collaborate with motivated undergrad and master students at UT.
-			I am also happy to answer questions about my research. If you are interested, please send me an email.
-		</p>
+        <p>I got both a MS and BS in Computer Science from UT Austin. Before starting my PhD, I worked
+            with <a href="https://www.cs.utexas.edu/~rossbach/">Christopher Rossbach</a> at
+            SCEA lab, focsuing on GPU benchmarking and developing methods to enable OS kernel access to accelerators.</p>
 
+        <p>I have been very fortunate to intern with <a href="https://theojepsen.dk/">Theo Jepsen</a> and
+            <a href="https://www.linkedin.com/in/georgiosnikolaidis">Georgios Nikolaidis</a> at Intel. This summer,
+            I will join <a href="https://aisystemcodesign.github.io/">AI and Systems Co-design team</a> at Meta as an intern,
+            building the infracstures to faciliate LLM training.</p>
 
+        <p>Contact: <em>bodunhu at utexas.edu</em></p>
 
-		<p class="small">
-	<!-- <div id="content-scroll">
-      <ul class="interest-list">
-      <li><strong>Continual Learning and Knowledge Editing</strong>: While LMs retain vast amounts of world knowledge seen during pretraining, such knowledge can get outdated. I am interested in retrieval augmentation and updating parametric knowledge in LMs.</i>
-      <li><strong>Long-form Question Answering</strong>: Enabling systems to produce paragraph-level answers opens up possiblities to handle more complicated questions and provide more comprehensive answers. LFQA merges two challenging research areas -- information retrieval and text generation. Furthermore, we have to synthesize information from multiple documents.</li>
-      <li><strong>Human-LM Interaction</strong>: NLP systems are getting deployed fast and widely. I am interested in improving human interactions with LM, for example, how should we present information such that users will not be misled by plausible yet imperfect model predictions? The deployment of models also creates opportunities to <i>learn</i> from interaction with users.</li>
-      <li><strong>Spoken Language Processing</strong>: Spoken language exhibits richer prosodic features that are absent in written text. Can we build textless NLP system which can work on speech signals, opening doors to handle languages without written scripts? </li>
-      </ul>
-    </p>
-    </div> -->
-    <h3>News</h3>
-	<embed src="./news.html" width="100%" height="150px" overflow="hidden">
-    <!-- <h3 id="group">Research Group</h3>
-    <p class="small">I am fortunate to work with many talented students and collaborators. I don't have a group name, but my students like to play with naming my lab, such as (E)xplaining and (U)nderstanding (N)ature and (S)tructure/Synthesis (O)f (L)anguage. I typically look for 1-2 students each year. If you are interested in working with me, please apply to UT Austin <a href="https://www.cs.utexas.edu/graduate-program/phd-program">CS PhD or Masters program</a> and mention my name. Likely I won't be able to answer emails about individual admission inquiries. If you are already at UT, please email me with your CV and transcript. I currently <strong>do not</strong> take interns. </p>
-
-
-        <p class="small">The research at my lab has been supported by Google, Open Philanthrophy, CISCO, Sony, HomeDepot and NSF. Thank you!</p>
-       <ul class="member-list">
-       <li><span class='member-header'>Current</span></li>
-       <li><a href='https://www.cs.utexas.edu/~mjqzhang/'>Michael J.Q. Zhang</a><span class='member-meta'>CS PhD (Fa20-)</span></li>
-       <li><a href='https://ajd12342.github.io/'>Anuj Diwan</a> (w/ <a href='https://www.cs.utexas.edu/~harwath/'>David Harwarth)</a><span class='member-meta'>CS PhD (Fa21-)</span></li>
-       <li><a href="https://www.cs.utexas.edu/~fxu/">Fangyuan Xu</a><span class='member-meta'>CS PhD (Fa22-)</span></li>
-       <li><a href="https://timchen0618.github.io/">Hung-Ting Chen</a><span class='member-meta'>CS PhD (Fa23-)</span></li>
-       <li><a href="https://leo-liuzy.github.io">Leo Zeyu Liu</a> (w/ Greg Durrett)<span class='member-meta'>CS PhD (Fa23-)</span></li>
-       <li>Thom Lake (w/ Greg Durrett)<span class='member-meta'>CS PhD (Fa23-)</span></li>
-       <li><a href="https://atutej.github.io/">Atula Tejaswi Neerkaje</a><span class='member-meta'>CS Masters (Fa23-)</span></li>
-       <li><a href="https://shankarp8.github.io/">Shankar Padmanabhan</a><span class='member-meta'>UT Undergraduate (Fa22-)</span></li>
-       <li>Doeun Lee<span class='member-meta'>UT CS Undergraduate (Su23-)</span></li>
-       <li><a href="https://lilys012.github.io/">Yoonsang Lee</a><span class='member-meta'>Visiting Student (Fa23-)</span></li>
-       <li><a href="https://younghanstark.github.io/">Younghan Park</a><span class='member-meta'>Visiting Student (Fa23-)</span></li>
-       <li>Catherine Andersson<span class=member-meta>Admin Support</span></li>
-       </ul> -->
-   <h3 id="publications">Publications</h3>
-       <p class="small">* refers to equal contribution.</p>
-	    <ul class="pub-list">
-	    	<!-- <li><span class='pub-header'>Preprint</span></li>
-	        <li><a class="pub-title" href="https://arxiv.org/pdf/2404.03865">FFN-SkipLLM: A Hidden Gem for Autoregressive Decoding with Adaptive Feed Forward Skipping</a>, ArXiv 2024<br>
-		        <span class="pub-authors">Ajay Jaiswal, <strong>Bodun Hu</strong>, Lu Yin, Yeonju Ro, Shiwei Liu, Tianlong Chen, Aditya Aeklla</span>
+        <!-- <ul>
+            <li>Live in New York. Grew up in Hyderabad, India.</li>
+            <li>Studied at <a href="https://www.nyu.edu/">NYU</a> and <a href="https://vit.ac.in/">VIT Vellore</a>.
             </li>
-	        <li><a class="pub-title" href="https://arxiv.org/pdf/2310.18481">MOSEL: Inference Serving Using Dynamic Modality Selection</a>, ArXiv 2024<br>
-		        <span class="pub-authors"><strong>Bodun Hu</strong>, Le Xu, Jeongyoon Moon, Neeraja J. Yadwadkar, Aditya Akella</span>
-            </li> -->
-            
-        <!-- <li><span class='pub-header'>Peer-reviewed</span></li> -->
+            <li>
+                <details>
+                    <summary>
+                        Currently at Meta and NYU, focusing on AI Infrastructure, AI Research and Robotics.
+                    </summary>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>
+                        Co-founded <a href="https://pytorch.org/">PyTorch</a>, maintained <a
+                            href="http://torch.ch/">Torch-7</a> and actively work on open-source.
+                        <span style="color:grey">&nbsp;&nbsp; <i>[expand]</i></span>
+                    </summary>
 
-        <li><a class="pub-title">Patchwork: A Unified Framework for RAG Serving</a>, ArXiv<br>
-            <span class="pub-authors"><strong>Bodun Hu</strong>*, Luis Pabon*, Saurabh Agarwal, Aditya Akella</span>
-        </li>
+                    <ul>
+                        <li> PyTorch is the most impactful project that I've been involved
+                            in, and now powers most of the world's AI research and product -- with
+                            hundreds of companies, research labs and individuals using and
+                            maintaining it. It has <a href="https://pytorch.org/community-stories">significant and
+                                tangible real-world impact</a>
+                            from self-driving cars (Tesla, Cruise, Uber, etc.) to drug discovery
+                            (Astra Zenenca, Genentech, etc.) to cancer research (Bamfield / MARS
+                            Company) to NASA and other space research to several consumer products
+                            (Instagram, TikTok, Snapchat, Pinterest, etc.), and this amount of
+                            real-world usage often intimidates me. There's more than one bug in
+                            PyTorch, when it was uncovered, I couldn't sleep thinking about what the
+                            downstream effects could be. PyTorch has been impactful far beyond my
+                            expectations or ambition.
+                        </li>
+                        <li>
+                            Torch-7 at it’s peak was used by Google Deepmind, Twitter and Meta and singificant AI
+                            research was powered by it.
+                        </li>
+                        <li>
+                            Created <a href="https://github.com/soumith/convnet-benchmarks">convnet-benchmarks</a>,
+                            a once popular benchmarking suite for deep learning. It was used from
+                            2015 to 2017 as a gold standard by NVIDIA, AMD, Intel Nervana and many
+                            other hardware manufacturers to optimize their systems
+                        </li>
+                        <li>
+                            I used to maintain <a href="https://eblearn.sourceforge.net/">EBLearn</a>, a C++ based Deep
+                            Learning Framework pre-2012, together with Pierre Sermanet and Yann LeCun.
+                        </li>
+                    </ul>
+                </details>
+            </li>
+            <li>
+                <details>
+                    <summary>
+                        Published well-cited AI research in Generating Images and other AI things.<span
+                            style="color:grey">&nbsp;&nbsp; <i>[expand]</i></span>
+                    </summary>
+                    <ul>
+                        <li>
+                            Some of my most cited work is on Generative Adversarial networks (GANs), where I co-authored
+                            three well-cited papers: <a
+                                href="http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-5">LAPGAN</a>
+                            (<a href="http://soumith.ch/eyescream/">demo</a>), <a
+                                href="https://arxiv.org/abs/1511.06434">DCGAN</a> (<a
+                                href="https://github.com/Newmu/dcgan_code">code/demo</a>) and <a
+                                href="https://arxiv.org/abs/1701.07875">Wasserstein GAN</a>. I gave up on GANs after
+                            failing to make them stable training algorithms.
+                        </li>
+                        <li>
+                            I've worked on <a href="https://arxiv.org/abs/1604.02135">object</a> and <a
+                                href="http://openaccess.thecvf.com/content_cvpr_2013/html/Sermanet_Pedestrian_Detection_with_2013_CVPR_paper.html">human</a>
+                            detection, generative modeling of {<a
+                                href="http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-5">images</a>,
+                            videos}, <a href="https://arxiv.org/abs/1609.02993">AI for video games</a>, <a
+                                href="https://arxiv.org/abs/1412.7580">ML systems research</a>.
+                        </li>
+                        <li>A full list of my peer-reviewed or pre-print manuscripts are on my <a
+                                href="https://scholar.google.com/citations?user=36ofBJgAAAAJ&amp;hl=en">Google Scholar
+                                page</a>.
+                        </li>
+                    </ul>
+                </details>
+            </li>
+            <li>Working on automating chores at home using robots.</li>
 
-        <li><a class="pub-title" href="https://arxiv.org/pdf/2404.18322">BlockLLM: Multi-tenant Finer-grained Serving for Large Language Models</a>, ArXiv<br>
-            <span class="pub-authors"><strong>Bodun Hu</strong>, Jiamin Li, Le Xu, Myungjin Lee, Akshay Jajoo, Geon-Woo Kim, Hong Xu, Aditya Akella</span>
-        </li>
+        </ul> -->
 
-        <li><a class="pub-title" href="https://aclanthology.org/2024.emnlp-main.501.pdf">MOSEL: Inference Serving Using Dynamic Modality Selection</a>, EMNLP 2024<br>
-            <span class="pub-authors"><strong>Bodun Hu</strong>, Le Xu, Jeongyoon Moon, Neeraja J. Yadwadkar, Aditya Akella</span><br>
-			<a class="pub-extras" href="./files/mosel_poster.pdf">[poster]</a>
-        </li>
+        <p> Here’s the list of publications:</p>
 
-        <li><a class="pub-title" href="https://arxiv.org/pdf/2404.03865">FFN-SkipLLM: A Hidden Gem for Autoregressive Decoding with Adaptive Feed Forward Skipping</a>, EMNLP 2024<br>
-            <span class="pub-authors">Ajay Jaiswal, <strong>Bodun Hu</strong>, Lu Yin, Yeonju Ro, Shiwei Liu, Tianlong Chen, Aditya Aeklla</span>
-        </li>
-
-	    <li><a class="pub-title" href="https://dl.acm.org/doi/pdf/10.1145/3575693.3575697">Towards a Machine Learning-Assisted Kernel with LAKE</a>, ASPLOS 2023<br>
-            <span class="pub-authors">Henrique Fingler, Isha Tarte, Hangchen Yu, Ariel Szekely, <strong>Bodun Hu</strong>, Aditya Akella, Christopher J. Rossbach</span>
-			<br>
-			<a class="pub-extras" href="https://www.youtube.com/watch?v=JiYZIuTiuZg">[video]</a>
-            <a class="pub-extras" href="https://github.com/utcs-scea/LAKE">[code]</a>
-		</li>
-	
-		<li><a class="pub-title" href="https://ieeexplore.ieee.org/document/9238617">Altis: Modernizing GPGPU Benchmarks</a>, ISPASS 2020<br>
-		    <span class="pub-authors"><strong>Bodun Hu</strong>, Christopher J. Rossbach</span><br>
-			<a class="pub-extras" href="https://www.youtube.com/watch?v=mRkcmjGzytY">[video]</a>
-			<a class="pub-extras" href="https://github.com/utcs-scea/altis">[code]</a>
-			<a class="pub-extras" href="https://utcs-scea.github.io/altis/">[website]</a>
-		</li>
-	    </ul>
-
-
-     <h3 id="teaching">Teaching</h3> 
-        <!-- <p class="small">For questions related to course registrations, please contact the following email: undergrads: under-info@cs.utexas.edu, For grads: gradoffice@cs.tuexas.edu</p> -->
-     	<ul class="teaching-list">
-			<li><a href="https://www.cs.utexas.edu/~akella/CS378/F24/index.html">Fall 2024: CS 378 System For Machine Learning and Big Data (undergrad)</a></li>
-     		<li><a href="https://www.cs.utexas.edu/~simon/378/">Spring 2020: CS 378 Multicore Operating System Implementation (undergrad)</a></li>
+        <ul>
+            <li><a>Patchwork: A Unified Framework for RAG Serving</a>, ArXiv<br>
+                <em><strong>Bodun Hu*</strong>, Luis Pabon*, Saurabh Agarwawl, Aditya Akella</em>
+            </li>
+            <li><a href="https://arxiv.org/pdf/2404.18322">BlockLLM: Multi-tenant Finer-grained Serving for Large Language Models</a>, ArXiv<br>
+                <em><strong>Bodun Hu</strong>, Jiamin Li, Le Xu, Myungjin Lee, Akshay Jajoo, Geon-Woo Kim, Hong Xu, Aditya Akella</em>
+            </li>
+            <li><a href="https://aclanthology.org/2024.emnlp-main.501.pdf">MOSEL: Inference Serving Using Dynamic Modality Selection</a>, EMNLP 2024<br>
+                <em><strong>Bodun Hu</strong>, Le Xu, Jeongyoon Moon, Neeraja J. Yadwadkar, Aditya Akella</em>
+            </li>
+            <li><a href="https://arxiv.org/pdf/2404.03865">FFN-SkipLLM: A Hidden Gem for Autoregressive Decoding with Adaptive Feed Forward Skipping</a>, EMNLP 2024<br>
+                <em>Ajay Jaiswal, <strong>Bodun Hu</strong>, Lu Yin, Yeonju Ro, Shiwei Liu, Tianlong Chen, Aditya Aeklla</em>
+            </li>
+            <li><a href="https://dl.acm.org/doi/pdf/10.1145/3575693.3575697">Towards a Machine Learning-Assisted Kernel with LAKE</a>, ASPLOS 2023<br>
+                <em>Henrique Fingler, Isha Tarte, Hangchen Yu, Ariel Szekely, <strong>Bodun Hu</strong>, Aditya Akella, Christopher J. Rossbach</em>
+            </li>
+            <li><a href="https://ieeexplore.ieee.org/document/9238617">Altis: Modernizing GPGPU Benchmarks</a>, ISPASS 2020<br>
+                <em><strong>Bodun Hu</strong>, Christopher J. Rossbach</em>
         </ul>
-     <h3 id="service">Service</h3>
-     	<ul class="service-list">
-	        <li>Reviewer, ACL 2025, ACL-SRW 2025</li>
-	        <!-- <li>Efficient QA Workshop, NeurIPS 2020</li> -->
-     	</ul>
-	<!-- <h3 id="alumni">Alumni</h3>
-        <ul class="member-list">
-       <li><a href='https://jifan-chen.github.io/'>Jifan Chen</a> (w/ <a href='https://www.cs.utexas.edu/~gdurrett/'>Greg Durrett</a>) <span class=member-meta> CS Ph.D Summer 2023 &#8594; Amazon AWS </span></li>
-       <li><a href='https://www.cs.utexas.edu/~yasumasa/'>Yasumasa Onoe</a> (w/ <a href='https://www.cs.utexas.edu/~gdurrett/'>Greg Durrett</a>) <span class='member-meta'> CS Ph.D Summer 2023  &#8594; Google Research</span></li>
-       <li>Anirudh Srinivasan<span class='member-meta'>CS Masters, 2022 &#8594; Tenstorrent Inc. </span></li>
-       <li>Hung-ting Chen<span class='member-meta'>CS Masters, 2022 &#8594; UT PhD</span></li>
-       <li>Pranav Atreya<span class='member-meta'>CS Undergrad Thesis, 2023 &#8594; Berkeley PhD</span></li>
-       <li>Abhilash Potluri<span class='member-meta'>CS Undergrad Thesis, 2022  &#8594; UIUC Masters</span></li>
-       <li>Rishi Salem (w/ <a href='https://www.cs.utexas.edu/~harwath/'>David Harwarth</a>)<span class='member-meta'>CS Masters Summer 2023</span></li>
-       </ul> -->
- 
-  <h3 id="personal">Misc.</h3>
-  <audio id="korean" src="./files/pronun_korean.mp3"></audio>
-  <audio id="english" src="./files/pronun_english.mp3"></audio>
-<p class="small">
-My first name (波顿) is pronounced as /ˈboʊdən/. The website template is inspired by <a href="https://eunsol.github.io/" target="_blank">Eunsol Choi</a>.<br>
- <br></p>
-<footer>
-<p>Last updated: April 2025</p>
-</footer>
-  </div>
-</div>
-<script src="./js/scale.fix.js"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZLK2GHB055"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
 
-gtag('config', 'G-ZLK2GHB055');
-</script> 
+        <p>Teaching:</p>
+
+        <ul>
+            <li><a href="https://www.cs.utexas.edu/~akella/CS378/F24/index.html">Fall 2024: CS 378 System For Machine Learning and Big Data</a>
+            </li>
+            <li><a href="https://www.cs.utexas.edu/~simon/378/">Spring 2020: CS 378 Multicore Operating System Implementation</a>
+            </li>
+        </ul>
+
+        <p>Service:</p>
+
+        <p>Reviewer: ACL 2025, ACL-SRW 2025</p>
+
+    </main>
+
+
 </body>
+
 </html>
