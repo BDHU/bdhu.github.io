@@ -4,16 +4,74 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Bodun Hu's personal website.">
+    <meta name="description" content="Bodun Hu is a software engineer and ML systems researcher working on high-performance systems, operating systems, and networking.">
     <link rel="canonical" href="https://www.bodunhu.com/">
+    <link rel="icon" href="/favicon.ico" sizes="any">
+
+    <meta property="og:type" content="profile">
+    <meta property="og:title" content="Bodun Hu | Software Engineer and ML Systems Researcher">
+    <meta property="og:description" content="Software engineer and ML systems researcher working on high-performance systems, operating systems, and networking.">
+    <meta property="og:url" content="https://www.bodunhu.com/">
+    <meta property="og:site_name" content="Bodun Hu">
+    <meta property="profile:first_name" content="Bodun">
+    <meta property="profile:last_name" content="Hu">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Bodun Hu | Software Engineer and ML Systems Researcher">
+    <meta name="twitter:description" content="Software engineer and ML systems researcher working on high-performance systems, operating systems, and networking.">
 
     <title>Bodun Hu</title>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "ProfilePage",
+            "url": "https://www.bodunhu.com/",
+            "dateModified": "2026-08-20",
+            "mainEntity": {
+                "@type": "Person",
+                "name": "Bodun Hu",
+                "url": "https://www.bodunhu.com/",
+                "jobTitle": "Software Engineer",
+                "worksFor": {
+                    "@type": "Organization",
+                    "name": "Google",
+                    "url": "https://about.google/"
+                },
+                "alumniOf": {
+                    "@type": "CollegeOrUniversity",
+                    "name": "The University of Texas at Austin",
+                    "sameAs": "https://www.utexas.edu/"
+                },
+                "sameAs": [
+                    "https://github.com/BDHU",
+                    "https://x.com/bodunhu",
+                    "https://www.linkedin.com/in/bodun-hu-19602b88",
+                    "https://scholar.google.com/citations?user=zR6afi8AAAAJ&hl=en"
+                ]
+            }
+        }
+    </script>
     <style>
         body {
             line-height: 1.5;
             max-width: 40.625rem;
             margin: 3.125rem auto;
             padding: 1.25rem;
+        }
+
+        header {
+            display: flex;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 0.625rem;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: inherit;
+        }
+
+        h2 {
+            font-size: 1.125rem;
         }
 
         nav a {
@@ -35,32 +93,34 @@
 
 <body>
     <header>
-        <nav>
-            <a href="https://www.bodunhu.com" class="name-link">Bodun Hu</a>
-            |&nbsp;&nbsp; <a href="https://www.bodunhu.com/blog">Blog</a>
+        <h1><a href="/" class="name-link" aria-current="page">Bodun Hu</a></h1>
+        <span aria-hidden="true">|</span>
+        <nav aria-label="Primary navigation">
+            <a href="https://www.bodunhu.com/blog/">Blog</a>
             <a href="/files/cv.pdf">CV</a>
             <a href="https://x.com/bodunhu">X</a>
             <a href="https://github.com/BDHU">GitHub</a>
-            <a href="https://scholar.google.com/citations?user=zR6afi8AAAAJ&hl=en">Publications</a>
+            <a href="https://scholar.google.com/citations?user=zR6afi8AAAAJ&amp;hl=en">Google Scholar</a>
         </nav>
     </header>
     <main>
-        <p>I am a software engineer at <a href="https://techsysinfra.google/">Google</a>. Previously, I earned my Ph.D. in Computer Science from <a href="https://www.utexas.edu/">UT Austin</a>, where I was fortunate to be advised by <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a> in the <a href="https://utns.cs.utexas.edu/">UTNS</a> lab.</p>
+        <p>I am a software engineer at <a href="https://techsysinfra.google/">Google</a>, where I work on improving the reliability of Gemini training. Previously, I earned my Ph.D. in Computer Science from <a href="https://www.utexas.edu/">UT Austin</a>, where I was advised by <a href="https://www.cs.utexas.edu/~akella/">Aditya Akella</a> in the <a href="https://utns.cs.utexas.edu/">UTNS</a> lab.</p>
 
-        <p>My research lies at the intersection of machine learning, operating systems, and network. I'm passionate about building high‑performance systems for ML.</p>
+        <p>My research focuses on high-performance systems for machine learning, particularly LLM training and serving. My interests span operating systems, networking, and compute-communication co-design.</p>
 
-        <p>I earned both my M.S. and B.S. in Computer Science from UT Austin. Before starting my PhD, I worked
+        <p>I also earned my M.S. and B.S. in Computer Science from UT Austin. Before beginning my Ph.D., I worked
             with <a href="https://www.cs.utexas.edu/~rossbach/">Christopher Rossbach</a> in the
-            SCEA lab, focusing on GPU benchmarking and developing methods to enable OS kernel access to accelerators. Every now and then, I share thoughts and write-ups on my <a href="https://www.bodunhu.com/blog/">blog</a>.</p>
+            SCEA lab on GPU benchmarking and methods for enabling OS kernels to access accelerators. I occasionally share notes and write-ups on my <a href="https://www.bodunhu.com/blog/">blog</a>.</p>
 
-        <p>I've also been very fortunate to intern with <a href="https://theojepsen.dk/">Theo Jepsen</a> and
-            <a href="https://www.linkedin.com/in/georgiosnikolaidis">Georgios Nikolaidis</a> at Intel.
-            I also interned with Meta's <a href="https://aisystemcodesign.github.io/">AI and Systems Co-design team</a> developing efficient communication collectives for LLM training under the supervision of <a href="https://kingchc.gitlab.io/">Ching-Hsiang Chu</a>.</p>
+        <p>I have also interned at Intel with <a href="https://theojepsen.dk/">Theo Jepsen</a> and
+            <a href="https://www.linkedin.com/in/georgiosnikolaidis">Georgios Nikolaidis</a>, and with Meta's
+            <a href="https://aisystemcodesign.github.io/">AI and Systems Co-design team</a>, where I developed efficient communication collectives for LLM training under the supervision of <a href="https://kingchc.gitlab.io/">Ching-Hsiang Chu</a>.</p>
 
         <p>Contact: <em>bodunhu at gmail.com</em><br>
+        LinkedIn: <a href="https://www.linkedin.com/in/bodun-hu-19602b88">Bodun Hu</a><br>
         PGP key: <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/A1B9B452CA88126F31C3D3E276F092F8CD673517">76F092F8CD673517</a></p>
 
-        <p>Publications:</p>
+        <h2>Publications</h2>
 
         <ul>
 			<li><a href="https://arxiv.org/pdf/2603.02376">CUCo: An Agentic Framework for Compute and Communication Co-design</a>, Preprint<br>
@@ -76,7 +136,7 @@
                 <em>Liyan Tang, Grace Kim, Xinyu Zhao, Thom Lake, Wenxuan Ding, Fangcong Yin, Prasann Singhal, Manya Wadhwa, Zeyu Leo Liu, Zayne Sprague, Ramya Namuduri, <strong>Bodun Hu</strong>, Juan Diego Rodriguez, Puyuan Peng, Greg Durrett</em>
             </li>
             <li><a href="https://arxiv.org/pdf/2505.07833">Patchwork: A Unified Framework for RAG Serving</a>, ArXiv<br>
-                <em><strong>Bodun Hu</strong>*, Luis Pabon*, Saurabh Agarwawl, Aditya Akella</em>
+                <em><strong>Bodun Hu</strong>*, Luis Pabon*, Saurabh Agarwal, Aditya Akella</em>
             </li>
             <li><a href="https://aclanthology.org/2025.acl-long.1305.pdf">StitchLLM: Serving LLMs, One Block at a Time</a>, ACL 2025<br>
                 <em><strong>Bodun Hu</strong>, Shuozhe Li, Saurabh Agarwal, Myungjin Lee, Akshay Jajoo, Jiamin Li, Le Xu, Geon-Woo Kim, Donghyun Kim, Hong Xu, Amy Zhang, Aditya Akella</em>
@@ -85,16 +145,17 @@
                 <em><strong>Bodun Hu</strong>, Le Xu, Jeongyoon Moon, Neeraja J. Yadwadkar, Aditya Akella</em>
             </li>
             <li><a href="https://aclanthology.org/2024.emnlp-main.941.pdf">FFN-SkipLLM: A Hidden Gem for Autoregressive Decoding with Adaptive Feed Forward Skipping</a>, EMNLP 2024<br>
-                <em>Ajay Jaiswal, <strong>Bodun Hu</strong>, Lu Yin, Yeonju Ro, Shiwei Liu, Tianlong Chen, Aditya Aeklla</em>
+                <em>Ajay Jaiswal, <strong>Bodun Hu</strong>, Lu Yin, Yeonju Ro, Shiwei Liu, Tianlong Chen, Aditya Akella</em>
             </li>
             <li><a href="https://dl.acm.org/doi/pdf/10.1145/3575693.3575697">Towards a Machine Learning-Assisted Kernel with LAKE</a>, ASPLOS 2023<br>
                 <em>Henrique Fingler, Isha Tarte, Hangchen Yu, Ariel Szekely, <strong>Bodun Hu</strong>, Aditya Akella, Christopher J. Rossbach</em>
             </li>
             <li><a href="https://ieeexplore.ieee.org/document/9238617">Altis: Modernizing GPGPU Benchmarks</a>, ISPASS 2020<br>
                 <em><strong>Bodun Hu</strong>, Christopher J. Rossbach</em>
+            </li>
         </ul>
 
-        <p>Teaching:</p>
+        <h2>Teaching</h2>
 
         <ul>
 			<li><a href="https://utnslab.github.io/fa25-adv-topics-in-sys-genai/">Fall 2025: CS 395T: Advanced Topics in Systems and GenAI</a>
@@ -105,9 +166,9 @@
             </li>
         </ul>
 
-        <p>Service:</p>
+        <h2>Service</h2>
 
-        <p>Reviewers for ACL 2025, ACL 2026, ACL-SRW 2025, ICLR 2026, CAIS 2026, NeurIPS 2026, DocInsights 2026</p>
+        <p>Reviewer for ACL 2025, ACL 2026, ACL-SRW 2025, ICLR 2026, CAIS 2026, NeurIPS 2026, and DocInsights 2026.</p>
 
     </main>
 
